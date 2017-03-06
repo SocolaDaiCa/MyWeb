@@ -4,4 +4,3 @@ Hỗ trợ làm việc nhóm
 |xsds|
 |----|
 http://codepen.io/pen/ |
-d
