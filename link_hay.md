@@ -6,18 +6,11 @@ https://www.noisli.com/ |
 [Cứu hộ SMS](https://www.facebook.com/C%E1%BB%A9u-H%E1%BB%99-SMS-384758608549291) |
 
 
-|get link |
-|---------|
-https://botay.click/ |
-http://linkphim.download/ |
-http://247leech.com/ |
-http://getlink.vaphim.com/ |
-http://kuteteen.tv/ |
-http://www.aku.vn/linksvip |
-http://www.aku.vn/linksvip |
-http://thuthuatviet.vn/fshare/ |
-http://247leech.com/ |
-http://getlink.vaphim.com/ |
+|get link |   |   |
+|---------|---|---|
+https://botay.click/ | http://linkphim.download/ | http://thuthuatviet.vn/fshare/ |http://247leech.com/ | 
+http://getlink.vaphim.com/ | http://www.aku.vn/linksvip | http://kuteteen.tv/ | http://www.aku.vn/linksvip | 
+http://getlink.vaphim.com/ |http://247leech.com/ |
 
 |AccessUrl|   |
 |---------|---|
