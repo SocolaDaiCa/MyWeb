@@ -20,13 +20,10 @@ http://kuteteen.tv/ |
 
 #AccessUrl
 
-|Linkvip|
-|-------|
-https://accessurl.com/4_LHJSlB#fd2fe95l2 |
-
-|Edumall|
-|-------|
-[Lập trình web](https://accessurl.com/CgSaAnaD#fg7aoveig) |
+|   |
+|---|
+https://accessurl.com/4_LHJSlB#fd2fe95l2 | Linkvip|
+[Lập trình web](https://accessurl.com/CgSaAnaD#fg7aoveig) |Edumall|
 
 |http://movies.hdviet.com/|
 |-------------------------|
