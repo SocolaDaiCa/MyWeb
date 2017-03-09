@@ -17,22 +17,12 @@ http://247leech.com/ |
 http://getlink.vaphim.com/ |
 http://kuteteen.tv/ |
 
-
-#AccessUrl
-
-|   |
-|---|
+|AccessUrl|   |
+|---------|---|
 https://accessurl.com/4_LHJSlB#fd2fe95l2 | Linkvip|
 [Lập trình web](https://accessurl.com/CgSaAnaD#fg7aoveig) |Edumall|
-
-|http://movies.hdviet.com/|
-|-------------------------|
-https://accessurl.com/VTAi1OS4#2m7j6rh5k |
-
-|http://hdonline.vn/|
-|-------------------|
-https://accessurl.com/Ig7aIWjd#ch22lhmbl |
-
+https://accessurl.com/VTAi1OS4#2m7j6rh5k | http://movies.hdviet.com/|
+https://accessurl.com/Ig7aIWjd#ch22lhmbl | http://hdonline.vn/|
 # link
 Danh sách các link hay<br/>
 
