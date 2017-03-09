@@ -1,5 +1,3 @@
-[Vps-Free-Trial](#vps-free-trial)
-
 |   |
 |---|
 [Nhận diện JAV Idol](http://jav-idol.toidicodedao.com/) |
