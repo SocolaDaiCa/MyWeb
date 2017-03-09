@@ -1,3 +1,5 @@
+[Vps-Free-Trial](##Vps-Free-Trial)
+
 |   |
 |---|
 [Nhận diện JAV Idol](http://jav-idol.toidicodedao.com/) |
@@ -34,3 +36,14 @@ https://accessurl.com/VTAi1OS4#2m7j6rh5k |
 |-------------------|
 https://accessurl.com/Ig7aIWjd#ch22lhmbl |
 
+# link
+Danh sách các link hay<br/>
+
+##Vps Free Trial
+Vps Free Trial, có cả Windows XP, 7.... đặc biệt có cả mac os ạ :D
+CHÚ Ý: Chỉ là free trial có giới hạn thời gian và chỉ để trải nghiệm thôi chứ không có dùng để làm gì khác được đâu :D 
+HƯỚNG DẪN SƠ SƠ QUA CÁCH DÙNG
+Tạo tài khoản và nhấn new manual test, chọn trình duyệt bạn đang xài , hệ điều hành và độ phân giải bạn muốn sử dụng.<br/>
+https://saucelabs.com/ <br>
+Tìm wifi free quanh đây https://opennetmap.co/ <br>
+Background đẹp https://alpha.wallhaven.cc/random <br>
