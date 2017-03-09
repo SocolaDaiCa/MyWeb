@@ -12,10 +12,7 @@ https://codeshare.io/ |
 https://codeanywhere.com |
 http://codepen.io/pen/ |
 http://freetuts.net/editor.html |
-
-
-### Graph FB API
-https://developers.facebook.com/tools/explorer
+https://developers.facebook.com/tools/explorer | Graph FB API |
 
 ### Tiện ích
 |   |   |
