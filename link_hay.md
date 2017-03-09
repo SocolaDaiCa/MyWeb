@@ -1,4 +1,4 @@
-[Vps-Free-Trial](https://github.com/SocolaDaiCa/MyWeb/blob/master/link_hay.md#vps-free-trial)
+[Vps-Free-Trial](#vps-free-trial)
 
 |   |
 |---|
