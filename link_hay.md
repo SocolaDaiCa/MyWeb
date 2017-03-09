@@ -14,7 +14,7 @@ http://getlink.vaphim.com |http://247leech.com |
 
 |AccessUrl|   |
 |---------|---|
-https://accessurl.com/4_LHJSlB#fd2fe95l2 | Linkvip|
+www.accessurl.com/4_LHJSlB#fd2fe95l2 | Linkvip|
 https://accessurl.com/Q1f7SHig#gnu57cshj | Linkvip|
 https://accessurl.com/yCwBPjta#u234uef7q | www.fshare.vn |
 https://accessurl.com/CgSaAnaD#fg7aoveig | Lập trình web Edumall|
