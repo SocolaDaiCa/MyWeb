@@ -8,9 +8,9 @@ https://www.noisli.com/ |
 
 |get link |   |   |   |
 |---------|---|---|---|
-botay.click/ | http://linkphim.download/ | http://thuthuatviet.vn/fshare/ |http://247leech.com/ | 
-http://getlink.vaphim.com/ | http://www.aku.vn/linksvip | http://kuteteen.tv/ | http://www.aku.vn/linksvip | 
-http://getlink.vaphim.com/ |http://247leech.com/ |
+http://botay.click | http://linkphim.download | http://thuthuatviet.vn/fshare |http://247leech.com | 
+http://getlink.vaphim.com | http://www.aku.vn/linksvip | http://kuteteen.tv | http://www.aku.vn/linksvip | 
+http://getlink.vaphim.com |http://247leech.com |
 
 |AccessUrl|   |
 |---------|---|
