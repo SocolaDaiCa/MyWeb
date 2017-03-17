@@ -50,6 +50,7 @@ CHÚ Ý: Chỉ là free trial có giới hạn thời gian và chỉ để trả
 HƯỚNG DẪN SƠ SƠ QUA CÁCH DÙNG
 Tạo tài khoản và nhấn new manual test, chọn trình duyệt bạn đang xài , hệ điều hành và độ phân giải bạn muốn sử dụng.<br/>
 https://saucelabs.com/ <br>
+https://www.apponfly.com/en/ VPS free 30 ngày
 Tìm wifi free quanh đây https://opennetmap.co/ <br>
 Background đẹp https://alpha.wallhaven.cc/random <br>
 https://formbuilder.online/#6403x23333r2t2a47433x2b4x28403u2
