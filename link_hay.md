@@ -8,6 +8,12 @@ http://www.codelist.cc/ |
 http://www.howkteam.com/ |
 
 
+| Email | Pass | nguồn |
+|-------|------|-------|
+anoymousvkl@gmail.com | j2team | //fb.com/429143117417814/ 
+
+
+
 |AccessUrl|   |
 |---------|---|
 https://www.accessurl.com/4_LHJSlB#fd2fe95l2 | Linkvip|
