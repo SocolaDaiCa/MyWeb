@@ -6,7 +6,7 @@ https://www.noisli.com/ |
 [Cứu hộ SMS](https://www.facebook.com/C%E1%BB%A9u-H%E1%BB%99-SMS-384758608549291) |
 
 
-edu mall namhoaq@gmail.com | 12345678
+edu mall namhoaq@gmail.com : 12345678
 |AccessUrl|   |
 |---------|---|
 https://www.accessurl.com/4_LHJSlB#fd2fe95l2 | Linkvip|
