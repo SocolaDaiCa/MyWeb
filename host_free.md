@@ -1,4 +1,5 @@
-##Host Free
+##Host Free 
+
 | Tên nhà cung cấp| Đặc điểm | Thông số | chủ |
 |-----------------|----------|----------|-----|
 https://infinityfree.net/ | dùng sub domain của họ | | |
