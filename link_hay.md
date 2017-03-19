@@ -14,7 +14,6 @@ https://accessurl.com/Q1f7SHig#gnu57cshj | Linkvip|
 https://accessurl.com/2Y1BsS2_#927jk2dbo | Linkvip |
 https://accessurl.com/yCwBPjta#u234uef7q | www.fshare.vn |
 https://accessurl.com/aR0zjU5o#bsph8or6b | www.fshare.vn |
-https://accessurl.com/Q18kmypm#koucjm540 | http://movies.hdviet.com/ |
 https://accessurl.com/Ig7aIWjd#ch22lhmbl | http://hdonline.vn/ |
 https://accessurl.com/Xi9VyMvl#7u8tdike1 | http://hdonline.vn/ |
 https://accessurl.com/UsnZevN_#eembv29mv | piay.iflix.com |
