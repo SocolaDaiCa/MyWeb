@@ -17,9 +17,10 @@ Dưới đây là các host free mà mình biết, cho tự trỏ doimain cũng 
 
 |   |
 |---|
-https://viewen.com/free-hosting/cart.php |
-http://www.atspace.com |
+https://viewen.com/free-hosting/cart.php
+http://www.atspace.com
 www.000webhost.com
+https://vvui.ga/cart.php
 [Đăng ký Host 2 năm miễn phí có SSD và DDOS Protection](https://anonyviet.com/dang-ky-host-2-nam-mien-phi-co-ssd-va-ddos-protection) |
 
 
