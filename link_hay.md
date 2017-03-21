@@ -2,6 +2,7 @@
 |---|---|
 [Nhận diện JAV Idol](http://jav-idol.toidicodedao.com) |
 https://visualgo.net/#6403x23333r2t2a47433x2b4x28403u2 | mô tả giải thuật
+http://www.danhgiaweb.com
 http://j2team.anlink.top |
 https://www.noisli.com |
 [Cứu hộ SMS](https://www.facebook.com/C%E1%BB%A9u-H%E1%BB%99-SMS-384758608549291) |
