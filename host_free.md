@@ -14,8 +14,10 @@ Dưới đây là các host free mà mình biết, cho tự trỏ doimain cũng 
 <br>
 |   |
 |---|
-https://viewen.com/free-hosting/cart.php
-http://www.atspace.com
-[Đăng ký Host 2 năm miễn phí có SSD và DDOS Protection](https://anonyviet.com/dang-ky-host-2-nam-mien-phi-co-ssd-va-ddos-protection)
+https://viewen.com/free-hosting/cart.php |
+http://www.atspace.com |
+[Đăng ký Host 2 năm miễn phí có SSD và DDOS Protection](https://anonyviet.com/dang-ky-host-2-nam-mien-phi-co-ssd-va-ddos-protection) |
+
+
 ##Java Hosting Server
 https://jelastic.com
