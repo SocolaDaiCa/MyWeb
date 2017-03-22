@@ -2,7 +2,7 @@
 |---|---|
 [Nhận diện JAV Idol](http://jav-idol.toidicodedao.com) |
 https://visualgo.net/#6403x23333r2t2a47433x2b4x28403u2 | mô tả giải thuật
-https://promo.orbios.com/ | Destop online
+https://promo.orbios.com | Destop online
 http://www.danhgiaweb.com
 http://j2team.anlink.top |
 https://www.noisli.com |
@@ -40,10 +40,10 @@ https://piay.iflix.com/login#6403x23333r2t2a47433x2b4x28403u2
 
 Danh sách các link hay<br/>
 1. Codeshare.io
-2. https://coderpad.io/
-3. https://kobra.io/
-4. https://codebunk.com/
-5. https://floobits.com/
+2. https://coderpad.io
+3. https://kobra.io
+4. https://codebunk.com
+5. https://floobits.com
 6. Thậm chí là c9.io
 7. codeanywhere.com
 8. Koding.com
