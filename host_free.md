@@ -24,5 +24,6 @@ www.vvui.ga/cart.php
 [Đăng ký Host 2 năm miễn phí có SSD và DDOS Protection](https://anonyviet.com/dang-ky-host-2-nam-mien-phi-co-ssd-va-ddos-protection) |
 https://anonyviet.com/huong-dan-dang-ky-vps-mien-phi-voi-cloud9
 
+https://member.wpfastest.com/order/main/packages/free-package/?group_id=5#6403x23333r2t2a47433x2b4x28403u2  wordpress hosting free 2 www.fb.com/461072697558189/
 ##Java Hosting Server
 www.jelastic.com
