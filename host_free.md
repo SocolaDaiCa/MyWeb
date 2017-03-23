@@ -27,3 +27,11 @@ https://anonyviet.com/huong-dan-dang-ky-vps-mien-phi-voi-cloud9
 https://member.wpfastest.com/order/main/packages/free-package/?group_id=5#6403x23333r2t2a47433x2b4x28403u2  wordpress hosting free 2 www.fb.com/461072697558189/
 ##Java Hosting Server
 www.jelastic.com
+
+#VPS free
+
+Sử dụng BINCODE để update
+BINCODE: 450060xxxxxxxxxx | 546898xxxxxxxxxx
+Link Generate Credit Card Number: http://cc.namsopro.com/
+Link đăng ký: http://fra.me
+Email (Nếu cần): http://temp-mail.org/
