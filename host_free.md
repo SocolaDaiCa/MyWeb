@@ -29,9 +29,9 @@ https://member.wpfastest.com/order/main/packages/free-package/?group_id=5#6403x2
 www.jelastic.com
 
 #VPS free
-
 Sử dụng BINCODE để update
-BINCODE: 450060xxxxxxxxxx | 546898xxxxxxxxxx
-Link Generate Credit Card Number: http://cc.namsopro.com/
-Link đăng ký: http://fra.me
-Email (Nếu cần): http://temp-mail.org/
+BINCODE: 450060xxxxxxxxxx | 546898xxxxxxxxxx <br>
+Link Generate Credit Card Number: http://cc.namsopro.com/ <br>
+Link đăng ký: http://fra.me <br>
+Email (Nếu cần): http://temp-mail.org/ <br>
+[Nguồn](https://www.fb.com/462717304060395/)
