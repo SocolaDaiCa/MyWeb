@@ -16,6 +16,7 @@ Dưới đây là các host free mà mình biết, cho tự trỏ doimain cũng 
 
 |Chưa test|
 |---------|
+https://khachhang.znvietnam.com/cart.php?a=add&pid=6#6403x23333r2t2a47433x2b4x28403u2
 www.ultimatefreehost.in/index.html
 www.viewen.com/free-hosting/cart.php
 www.atspace.com
