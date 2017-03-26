@@ -6,5 +6,6 @@ https://kipalog.com/posts/Lap-trinh-va-Toan-hoc                     | Kipalog
 https://techtalk.vn/lap-trinh-vien-hanh-phuc.html                   | Tecktalk
 techtalk.vn/coding-thap-bat-chuong.html
 https://techtalk.vn/hon-ma-coder.html
+https://techtalk.vn/tu-hoc-lap-trinh-hoi-lam-sao-de-duoc-tra-loi.html
 https://techtalk.vn/ngunglambieng-canh-tinh-thuc-trang-luoi-bieng-tu-trong-tu-tuong-dang-lo-ngai-cua-sinh-vien-cntt.html
 https://junookyo.blogspot.com/2016/05/hoc-lap-trinh-de-lam-gi.html  | junookyo
