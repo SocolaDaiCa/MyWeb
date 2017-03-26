@@ -1,6 +1,7 @@
 # Mấy bài viết mà T nghĩ mà nó hay
 |   |   |
 |---|---|
+https://0x8f1e7.blogspot.com/2017/02/su-dung-hero-image-nao-la-tot-nhat.html
 http://tapbut.ngochieu.com/ux-ke-chuyen-cai-nut-exit
 https://kipalog.com/posts/Lap-trinh-va-Toan-hoc                     | Kipalog
 https://kipalog.com/posts/Design-form-the-nao-cho-tot
