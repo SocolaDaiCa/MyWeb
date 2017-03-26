@@ -1,17 +1,17 @@
 |   |   | Nguồn
 |---|---|---|
-[Nhận diện JAV Idol](http://jav-idol.toidicodedao.com) |
-https://visualgo.net/#6403x23333r2t2a47433x2b4x28403u2 | mô tả giải thuật
-https://promo.orbios.com | Destop online | https://fb.com/456919954640130
+http://jav-idol.toidicodedao.com| Nhận diện JAV Idol
+https://visualgo.net            | mô tả giải thuật
+https://promo.orbios.com        | Destop online | https://fb.com/456919954640130
 http://www.danhgiaweb.com
-http://j2team.anlink.top |
-https://www.noisli.com |
-[Cứu hộ SMS](https://www.facebook.com/C%E1%BB%A9u-H%E1%BB%99-SMS-384758608549291) |
-http://www.codelist.cc |
-http://www.howkteam.com |
-http://lunicode.com/creepify | chữ bẩn bẩn |
-https://opennetmap.co/        | Tìm wifi free quanh đây 
-https://cc.namsopro.com
+http://j2team.anlink.top        |
+https://www.noisli.com          |
+https://fb.com/384758608549291  |  Cứu hộ SMS
+http://www.codelist.cc          |
+http://www.howkteam.com         |
+http://lunicode.com/creepify    | chữ bẩn bẩn |
+https://opennetmap.co/          | Tìm wifi free quanh đây 
+https://cc.namsopro.com         | vida ảo
 
 Trang | Email | Pass | nguồn |
 |-----|-------|------|-------|
