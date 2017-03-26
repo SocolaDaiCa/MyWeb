@@ -1,6 +1,6 @@
 |   |   | Nguồn
 |---|---|---|
-http://jav-idol.toidicodedao.com| Nhận diện JAV Idol
+http://jav-idol.toidicodedao.com | Nhận diện JAV Idol
 https://visualgo.net            | mô tả giải thuật
 https://promo.orbios.com        | Destop online | https://fb.com/456919954640130
 http://www.danhgiaweb.com
