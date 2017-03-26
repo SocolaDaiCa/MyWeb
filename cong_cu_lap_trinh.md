@@ -18,7 +18,8 @@ https://developers.facebook.com/tools/explorer | Graph FB API |
 |   |   |
 |---|---|
 kéo thả boottrap Form | http://bootsnipp.com/forms |
+eclipc kéo thả | http://download.eclipse.org/windowbuilder/WB/integration/4.6/
 
 
-
-
+https://developers.facebook.com/docs/graph-api/reference/v2.8/album/photos
+https://developers.facebook.com/docs/?hc_location=ufi
