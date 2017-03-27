@@ -1,4 +1,4 @@
-# Mấy bài viết mà T nghĩ mà nó hay
+# Mấy bài viết mà mình nghĩ mà nó hay
 |   |   |
 |---|---|
 https://0x8f1e7.blogspot.com/2017/02/su-dung-hero-image-nao-la-tot-nhat.html
@@ -6,6 +6,7 @@ http://tapbut.ngochieu.com/ux-ke-chuyen-cai-nut-exit
 https://kipalog.com/posts/Lap-trinh-va-Toan-hoc                     | Kipalog
 https://kipalog.com/posts/Design-form-the-nao-cho-tot
 https://techtalk.vn/lap-trinh-vien-hanh-phuc.html                   | Tecktalk
+https://techtalk.vn/dat-ten-bien-nhu-the-nao-de-chuan-clean-code.html
 techtalk.vn/coding-thap-bat-chuong.html
 https://techtalk.vn/hon-ma-coder.html
 https://techtalk.vn/tu-hoc-lap-trinh-hoi-lam-sao-de-duoc-tra-loi.html
