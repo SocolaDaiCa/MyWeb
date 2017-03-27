@@ -12,3 +12,5 @@ https://techtalk.vn/tu-hoc-lap-trinh-hoi-lam-sao-de-duoc-tra-loi.html
 https://techtalk.vn/bi-kip-cho-web-text-nhung-loi-nghiep-du-thuong-gap.html
 https://techtalk.vn/ngunglambieng-canh-tinh-thuc-trang-luoi-bieng-tu-trong-tu-tuong-dang-lo-ngai-cua-sinh-vien-cntt.html
 https://junookyo.blogspot.com/2016/05/hoc-lap-trinh-de-lam-gi.html  | junookyo
+https://junookyo.blogspot.com/2017/03/27-dieu-ban-muon-biet-khi-hoc-lap-trinh.html
+
