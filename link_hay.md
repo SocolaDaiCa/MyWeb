@@ -34,8 +34,6 @@ https://accessurl.com/2Y1BsS2_#927jk2dbo | Linksvip          |
 https://accessurl.com/CInZA_LL#llealdcq8 | Linksvip          | iloveyou_0071412@yahoo.com | [nguồn](https://fb.com/461036374228488)
 https://accessurl.com/yCwBPjta#u234uef7q | fshare.vn         |
 https://accessurl.com/aR0zjU5o#bsph8or6b | fshare.vn         |
-https://accessurl.com/VTAi1OS4#2m7j6rh5k | movies.hdviet.com |		
-https://accessurl.com/Q18kmypm#koucjm540 | movies.hdviet.com |
 https://accessurl.com/Xi9VyMvl#7u8tdike1 | hdonline.vn       |
 https://accessurl.com/UsnZevN_#eembv29mv | piay.iflix.com    |
 https://accessurl.com/qCOH20ps#khqd883ms | WWE               |
