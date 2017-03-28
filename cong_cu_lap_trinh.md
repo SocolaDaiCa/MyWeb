@@ -13,6 +13,7 @@ https://codeanywhere.com                        |
 http://codepen.io/pen                           |
 http://freetuts.net/editor.html                 |
 https://developers.facebook.com/tools/explorer  | Graph FB API
+https://developers.facebook.com/tools/accesstoken | access token
 http://dillinger.io                             | Online Markdown Editor
 http://lmgtfy.com                               | Hướng dẫn search Google
 
