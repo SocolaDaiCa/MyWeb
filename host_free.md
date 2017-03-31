@@ -5,7 +5,10 @@
 www.infinityfree.net        | dùng sub domain của họ  | |               |
 www.thefreecpanel.com       |                         | |               |
 www.ago.vn                  | dùng sub domain của họ  | | free.byethost |
-| www.gocloudwebhosting.com | dùng thử 30 ngày        | |
+www.gocloudwebhosting.com | dùng thử 30 ngày        | |
+
+VPS free
+
 # `Danh sách host`
 Dưới đây là các host free mà mình biết, cho tự trỏ doimain cũng có, bắt dùng sub domain cũng có
 ## `host free cho tự trỏ domain`
@@ -29,7 +32,7 @@ https://member.wpfastest.com/order/main/packages/free-package/?group_id=5#6403x2
 ##Java Hosting Server
 www.jelastic.com
 
-#VPS free
+#VPS free 30 ngày thôi
 Sử dụng BINCODE để update
 BINCODE: 450060xxxxxxxxxx | 546898xxxxxxxxxx <br>
 Link Generate Credit Card Number: http://cc.namsopro.com/ <br>
