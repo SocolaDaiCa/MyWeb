@@ -2,7 +2,7 @@
 |---------|---|---|---|
 http://botay.click | http://linkphim.download | http://thuthuatviet.vn/fshare |http://247leech.com | 
 http://getlink.vaphim.com | http://www.aku.vn/linksvip | http://kuteteen.tv | http://www.aku.vn/linksvip | 
-http://getlink.vaphim.com |http://247leech.com | https://getlink.pro/ |
+http://247leech.com | https://getlink.pro/ |
 https://vnlinks.net/
 http://linksvip.net/
 http://247leech.com/
