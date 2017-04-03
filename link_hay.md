@@ -1,6 +1,7 @@
 https://www.malwarebytes.com/adwcleaner/ <br>
  downmienphi.com toàn virus <br>
- 
+ nếu bác chơi liên minh thì vào trong đường dẫn này: *\LienMinhHuyenThoai\GameData\Apps\lolVN\Game\DATA\LanguageFilters\
+các từ ngữ thô tục dc liệt kê ở 2 file txt đó :D bác tha hồ mà đọc
 
 
 |   |   | Nguồn
