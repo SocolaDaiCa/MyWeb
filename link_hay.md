@@ -37,6 +37,7 @@ https://accessurl.com/9WAnVf7g#evf6oekug | fshare.vn         |
 https://accessurl.com/aR0zjU5o#bsph8or6b | fshare.vn         |
 https://accessurl.com/Xi9VyMvl#7u8tdike1 | hdonline.vn       |
 https://accessurl.com/UsnZevN_#eembv29mv | piay.iflix.com    |
+https://accessurl.com/vJ2fhARW#12v9tgbi0 | tv.zing.vn        | | [nguồn](https://fb.com/471268223205303/)
 https://accessurl.com/qCOH20ps#khqd883ms | WWE               |
 
 
