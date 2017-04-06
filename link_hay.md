@@ -19,13 +19,13 @@ http://lunicode.com/creepify    | chữ bẩn bẩn |
 https://opennetmap.co/          | Tìm wifi free quanh đây 
 https://cc.namsopro.com         | vida ảo
 
-Trang | Email | Pass | nguồn |
-|-----|-------|------|-------|
+Trang         | Email                 | Pass            | nguồn |
+--------------|-----------------------|-----------------|-------|
 Edumall       | anoymousvkl@gmail.com | j2team          | www.fb.com/429143117417814
 Edumall       | namhoaq@gmail.com     | 12345678        |
 Nhạc của tui  | ungdung.mobi          | ungdungdotmobi  |
 tailieu.vn    | huhuhu85              | 130686          | www.fb.com/454106888254770
-
+vnz-leech.com | j2team				  | pass: abc12345
 
 |AccessUrl|   | Tài khoản | Nguồn |
 |---------|---|---|---|
