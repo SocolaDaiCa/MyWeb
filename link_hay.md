@@ -33,7 +33,6 @@ https://accessurl.com/4_LHJSlB#fd2fe95l2 | Linkvip           |
 https://accessurl.com/Q1f7SHig#gnu57cshj | Linksvip          |
 https://accessurl.com/2Y1BsS2_#927jk2dbo | Linksvip          |
 https://accessurl.com/CInZA_LL#llealdcq8 | Linksvip          | iloveyou_0071412@yahoo.com | [nguồn](https://fb.com/461036374228488)
-https://accessurl.com/yCwBPjta#u234uef7q | fshare.vn         | | [nguồn](https://fb.com/466542497011209)
 https://accessurl.com/aR0zjU5o#bsph8or6b | fshare.vn         |
 https://accessurl.com/gCN6FyCt#fgnsmntll | hdonline.vn		     | | [nguồn](https://fb.com/474618296203629)
 https://accessurl.com/PT8mS8ro#ict1v03ne | movies.hdviet.com | 
