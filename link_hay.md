@@ -6,18 +6,19 @@ các từ ngữ thô tục dc liệt kê ở 2 file txt đó :D bác tha hồ m�
 
 |   |   | Nguồn
 |---|---|---|
-http://jav-idol.toidicodedao.com | Nhận diện JAV Idol
-https://visualgo.net            | mô tả giải thuật
-https://promo.orbios.com        | Destop online | https://fb.com/456919954640130
+https://www.mohmal.com/en			| mail tạm thời
+http://jav-idol.toidicodedao.com	| Nhận diện JAV Idol
+https://visualgo.net            	| mô tả giải thuật
+https://promo.orbios.com        	| Destop online | https://fb.com/456919954640130
 http://www.danhgiaweb.com
-http://j2team.anlink.top        |
-https://www.noisli.com          |
-https://fb.com/384758608549291  |  Cứu hộ SMS
-http://www.codelist.cc          |
-http://www.howkteam.com         |
-http://lunicode.com/creepify    | chữ bẩn bẩn |
-https://opennetmap.co/          | Tìm wifi free quanh đây 
-https://cc.namsopro.com         | vida ảo
+http://j2team.anlink.top        	|
+https://www.noisli.com          	|
+https://fb.com/384758608549291  	|  Cứu hộ SMS
+http://www.codelist.cc          	|
+http://www.howkteam.com         	|
+http://lunicode.com/creepify    	| chữ bẩn bẩn |
+https://opennetmap.co/          	| Tìm wifi free quanh đây 
+https://cc.namsopro.com         	| vida ảo
 
 Trang         | Email                 | Pass            | nguồn |
 --------------|-----------------------|-----------------|-------|
