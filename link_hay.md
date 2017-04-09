@@ -69,7 +69,7 @@ Danh sách các link hay<br/>
 16. https://codetasty.com
 17. https://panic.com/coda
 18. http://www.activestate.com/komodo-ide
-##Vps Free Trial
+## Vps Free Trial
 Vps Free Trial, có cả Windows XP, 7.... đặc biệt có cả mac os ạ :D
 CHÚ Ý: Chỉ là free trial có giới hạn thời gian và chỉ để trải nghiệm thôi chứ không có dùng để làm gì khác được đâu :D 
 HƯỚNG DẪN SƠ SƠ QUA CÁCH DÙNG
