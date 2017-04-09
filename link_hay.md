@@ -51,18 +51,12 @@ https://piay.iflix.com/login#6403x23333r2t2a47433x2b4x28403u2
 # link
 
 Danh sách các link hay<br/>
-1. Codeshare.io
-2. https://coderpad.io
 3. https://kobra.io
 4. https://codebunk.com
 5. https://floobits.com
-6. Thậm chí là c9.io
-7. codeanywhere.com
 8. Koding.com
 9. https://screenhero.com
 10. https://codio.com
-11. https://codepad.co
-12. https://ideone.com
 13. https://squadedit.com
 14. http://codiad.com
 15. https://codenvy.com
