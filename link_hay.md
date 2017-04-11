@@ -26,7 +26,8 @@ Edumall       | anoymousvkl@gmail.com | j2team          | www.fb.com/42914311741
 Edumall       | namhoaq@gmail.com     | 12345678        |
 Nhạc của tui  | ungdung.mobi          | ungdungdotmobi  |
 tailieu.vn    | huhuhu85              | 130686          | www.fb.com/454106888254770
-vnz-leech.com | j2team				  | pass: abc12345
+vnz-leech.com | j2team				  | abc12345
+fshare.com	  |	vydaophuong@gmail.com |	bestyasuo		| www.fb.com/477284892603636
 
 |AccessUrl|   | Tài khoản | Nguồn |
 |---------|---|---|---|
