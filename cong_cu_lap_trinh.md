@@ -27,7 +27,7 @@ https://developers.facebook.com/tools/accesstoken 	| access token
 |---|---|
 kéo thả boottrap Form	| http://bootsnipp.com/forms |
 eclipc kéo thả 			| http://download.eclipse.org/windowbuilder/WB/integration/4.6/
-
+code mẫu html           | http://codepen.io/pens
 
 https://developers.facebook.com/docs/graph-api/reference/v2.8/album/photos
 https://developers.facebook.com/docs/?hc_location=ufi
