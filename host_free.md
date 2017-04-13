@@ -19,6 +19,7 @@ Dưới đây là các host free mà mình biết, cho tự trỏ doimain cũng 
 
 |Chưa test|
 |---------|
+https://www.biz.nf/web-hosting.php
 https://app.treudler.net/cart.php?a=add&pid=48
 https://brohosting.eu/billing/cart.php
 https://khachhang.znvietnam.com/cart.php?a=add&pid=6#6403x23333r2t2a47433x2b4x28403u2
