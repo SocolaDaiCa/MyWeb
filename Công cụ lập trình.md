@@ -7,7 +7,7 @@
 
 |   |  |
 |---|---|
-https://c9.io                                   	| code editor
+
 http://ideone.com									                | code editor
 https://coderpad.io									              | code editor
 http://ideone.com									                | code editor
@@ -19,7 +19,16 @@ http://freetuts.net/editor.html                		|
 http://tutorialspoint.com/compile_cpp_online.php  |
 http://lmgtfy.com                               	| Hướng dẫn search Google
 https://developers.facebook.com/tools/explorer  	| Graph FB API
-https://developers.facebook.com/tools/accesstoken 	| access token
+https://developers.facebook.com/tools/accesstoken | access token
+
+|web|   |
+|---|---|
+https://c9.io                                   	| code editor
+https://webgradients.com                          | phối màu back ground
+
+
+
+
 
 3. https://www.cuba-platform.com/development-tools#cubastudio
 4. https://codenvy.io/site/login…
