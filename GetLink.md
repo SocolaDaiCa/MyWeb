@@ -1,26 +1,38 @@
 |get link |   |   |   |
 |---------|---|---|---|
-http://botay.click | http://linkphim.download | http://thuthuatviet.vn/fshare |http://247leech.com | 
-http://getlink.vaphim.com | http://www.aku.vn/linksvip | http://kuteteen.tv | http://www.aku.vn/linksvip | 
-http://247leech.com | https://getlink.pro/ |
-https://vnlinks.net/
-http://linksvip.net/
-http://247leech.com/
-http://www.maclife.vn/fshare/
-https://getlink.pro/
-http://getlinkfshare.com/
-http://lomdom.net/
+http://247leech.com
+http://botay.click
+http://downvids.net
+http://fget.ml
+http://getlink.tranvu.info
+http://getlink.vaphim.com
 http://getlink4share.com/get-link.html
+http://getlinkfs.com
+http://getlinkfshare.com
 http://getlinkfshare.com/get-link.html
-http://www.aku.vn/linksvip
-http://getlink.vaphim.com/
-http://getlinkfs.com/
-http://hdfile.net/
-http://haiphongs.net/home/
+http://getlinkso1.com
+http://haiphongs.net/home
+http://hdfile.net
+http://keepvid.com
+http://koz.vn
 http://koz.vn/link.php
-http://getlinkso1.com/
-http://getlink.tranvu.info/
-http://tools.sinhvienit.net/getlinkfshare/
+http://kuteteen.tv
+http://linkphim.download
+http://linksvip.net
+http://lomdom.net
 http://taiphimhd.net/get-link.html
-http://fget.ml/
-http://downvids.net/
+http://tools.sinhvienit.net/getlinkfshare
+http://thuthuatviet.vn/fshare
+http://www.aku.vn/linksvip
+http://www.autogeneratelink.com
+http://www.maclife.vn/fshare
+https://accessurl.com/TweU#fnnj4q
+https://getlink.pro
+https://vnlinks.net
+https://www.facebook.com/daigiadinhvoi
+https://www.facebook.com/troly.bedieu
+https://www.facebook.com/botthanthanhkute
+
+3 cái này thì các bạn dán link cần get vào ô nhắn tin rồi gửi. Auto bot sẽ gửi lại link download cho bạn
+ 
+Link 4share.com thì các bạn thay "www." thành "http://4server.info/download/" là có thể download mà không cần chờ đợi hay đăng nhập
