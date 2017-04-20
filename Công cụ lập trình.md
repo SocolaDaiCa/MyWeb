@@ -7,7 +7,6 @@
 
 |   |  |
 |---|---|
-
 http://ideone.com									                | code editor
 https://coderpad.io									              | code editor
 http://ideone.com									                | code editor
