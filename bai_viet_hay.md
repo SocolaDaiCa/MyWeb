@@ -11,6 +11,7 @@ https://techtalk.vn/lap-trinh-vien-hanh-phuc.html
 https://techtalk.vn/tai-sao-dan-it-can-viet-blog.html
 https://techtalk.vn/tu-hoc-lap-trinh-hoi-lam-sao-de-duoc-tra-loi.html
 https://techtalk.vn/dat-ten-bien-nhu-the-nao-de-chuan-clean-code.html
+https://techtalk.vn/su-dung-hieu-ung-zeiganik-de-hoc-code-nhanh-hon.html
 https://techtalk.vn/bi-kip-cho-web-text-nhung-loi-nghiep-du-thuong-gap.html
 https://techtalk.vn/ngunglambieng-canh-tinh-thuc-trang-luoi-bieng-tu-trong-tu-tuong-dang-lo-ngai-cua-sinh-vien-cntt.html
 https://junookyo.blogspot.com/2016/05/hoc-lap-trinh-de-lam-gi.html  | junookyo
