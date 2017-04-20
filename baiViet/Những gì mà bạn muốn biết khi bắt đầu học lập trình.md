@@ -1,4 +1,5 @@
 ###Những gì mà bạn muốn biết khi bắt đầu học lập trình?
+
 -----
 1. Học bằng cách thực hành
 2. Lập trình không giống như việc học để làm bài kiểm tra
