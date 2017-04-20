@@ -26,3 +26,11 @@ Sau khi lấy được lòng tin đó thì các bạn đã vô tình trở thàn
 Nếu Wifi ở trên cao và tắt không tới ( Đối với mấy nấm lùn)
 Các bạn truy cập link modem: https://192.168.1.1 để kết nối và reset/reboot modem online nhé. Khỏi phải bấm tắt !! Các nấm lùn với không tới đừng cố mà hãy dùng cách này không thôi điện nó giật khổ cả nhà =))
 Nếu hết giới hạn cuộc gọi thì cảm phiền mấy bạn đứng dậy, ra ngoài chạy như trên,… rồi dô mở cái Tab mới => Reset modem để nó trót tin lần nữa => Rồi trở thành khách hàng mới ! Ok chứ ! đứa nào chưa ok bố tán sml (sợ mày luôn) !
+
+
+
+# phần 2
+https://globfone.com/send-text
+
+
+
