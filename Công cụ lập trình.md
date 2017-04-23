@@ -24,7 +24,7 @@ https://developers.facebook.com/tools/accesstoken | access token
 |---|---|
 https://c9.io                                   	| code editor
 https://webgradients.com                          | phối màu back ground
-
+http://colormind.io                               | phối màu
 
 
 
