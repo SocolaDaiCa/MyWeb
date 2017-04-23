@@ -43,9 +43,9 @@ http://colormind.io                               | phối màu
 |   |   |
 |---|---|
 kéo thả boottrap Form	| http://bootsnipp.com/forms |
-eclipc kéo thả 			| http://download.eclipse.org/windowbuilder/WB/integration/4.6/
-code mẫu html           | http://codepen.io/pens
-
+eclipc kéo thả 			  | http://download.eclipse.org/windowbuilder/WB/integration/4.6/
+code mẫu html         | http://codepen.io/pens
+Team view Lan         | https://superuser.com/questions/436231/teamviewer-meetings-on-a-lan-connection
 https://developers.facebook.com/docs/graph-api/reference/v2.8/album/photos
 https://developers.facebook.com/docs/?hc_location=ufi
 
