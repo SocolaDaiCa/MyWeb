@@ -30,3 +30,4 @@ http://www.pimpmysms.com/
 https://upptalk.com/
 http://www.talksms.com/
 http://www.sendmassage.com/spage/send-free-sms-worldwide.html
+http://mducptit.tech/reg.php
