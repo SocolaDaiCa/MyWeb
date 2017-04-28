@@ -19,6 +19,7 @@ Dưới đây là các host free mà mình biết, cho tự trỏ doimain cũng 
 
 |Chưa test|
 |---------|
+https://www.wpfastest.com/member/cart.php?gid=5
 https://www.biz.nf/web-hosting.php
 https://app.treudler.net/cart.php?a=add&pid=48
 https://brohosting.eu/billing/cart.php
