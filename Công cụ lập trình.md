@@ -19,6 +19,7 @@ http://tutorialspoint.com/compile_cpp_online.php  |
 http://lmgtfy.com                               	| Hướng dẫn search Google
 https://developers.facebook.com/tools/explorer  	| Graph FB API
 https://developers.facebook.com/tools/accesstoken | access token
+https://rollapp.com                               | Desktop online (dùng thích)
 
 |web|   |
 |---|---|
