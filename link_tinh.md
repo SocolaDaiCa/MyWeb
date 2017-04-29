@@ -6,3 +6,7 @@ http://www.linkmoji.co
 https://stalkscan.com | quét thông tin fb
 http://scan.dyno.vn   | quét thông tin fb
 
+thư giãn cùng tiếng mưa
+https://rainymood.com 
+http://maroslaw.github.io/rainyday.js/demo1.html 
+http://maroslaw.github.io/rainyday.js/demo2.html 
