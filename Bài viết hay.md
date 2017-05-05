@@ -17,4 +17,5 @@ https://techtalk.vn/ngunglambieng-canh-tinh-thuc-trang-luoi-bieng-tu-trong-tu-tu
 https://junookyo.blogspot.com/2016/05/hoc-lap-trinh-de-lam-gi.html  | junookyo
 https://junookyo.blogspot.com/2017/03/27-dieu-ban-muon-biet-khi-hoc-lap-trinh.html
 http://quyettammanh.vn/cach-bo-xem-phim-sex-ly-do
+http://ayp.vn/4-nguyen-tac-vang-trong-giao-tiep-chua-ai-noi-voi-ban
 
