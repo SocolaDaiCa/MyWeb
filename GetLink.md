@@ -34,5 +34,3 @@ https://www.facebook.com/troly.bedieu
 https://www.facebook.com/botthanthanhkute
 
 3 cái này thì các bạn dán link cần get vào ô nhắn tin rồi gửi. Auto bot sẽ gửi lại link download cho bạn
- 
-Link 4share.com thì các bạn thay "www." thành "http://4server.info/download/" là có thể download mà không cần chờ đợi hay đăng nhập
