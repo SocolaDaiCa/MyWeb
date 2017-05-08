@@ -6,6 +6,7 @@ http://tapbut.ngochieu.com/ux-ke-chuyen-cai-nut-exit
 https://kipalog.com/posts/Lap-trinh-va-Toan-hoc                     | Kipalog
 https://kipalog.com/posts/Design-form-the-nao-cho-tot
 https://techtalk.vn/hon-ma-coder.html                               | Tecktalk
+https://techtalk.vn/gia-nhu-tao-loading-facebook-bang-css-that-don-gian.html
 https://techtalk.vn/coding-thap-bat-chuong.html
 https://techtalk.vn/lap-trinh-vien-hanh-phuc.html
 https://techtalk.vn/tai-sao-dan-it-can-viet-blog.html
