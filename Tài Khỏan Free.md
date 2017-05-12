@@ -3,10 +3,10 @@
 
 Trang         | Email                 | Pass            | nguồn |
 --------------|-----------------------|-----------------|-------|
-Edumall       | anoymousvkl@gmail.com | j2team          | //fb.com/429143117417814
+Edumall       | anoymousvkl@gmail.com | j2team          | //:fb.com/429143117417814
 Edumall       | namhoaq@gmail.com     | 12345678        |
 Nhạc của tui  | ungdung.mobi          | ungdungdotmobi  |
-tailieu.vn    | huhuhu85              | 130686          | //fb.com/454106888254770
+tailieu.vn    | huhuhu85              | 130686          | //:fb.com/454106888254770
 vnz-leech.com | j2team				  | abc12345
 fshare.com	  |	vydaophuong@gmail.com |	bestyasuo		| //fb.com/477284892603636
 fshare        |                       |                 | [link](//docs.google.com/document/d/15M00KhjFQfQvIpG5UFtOSm5RxOK28ce9LosOpHiH0Yw/edit)
@@ -24,7 +24,7 @@ fshare        |                       |                 | [link](//docs.google.c
 //accessurl.com/s/TlQ9KL0XEFLtp9Fr5LNU  | hdonline.vn       | | [nguồn](//fb.com/490081231324002)
 //accessurl.com/s/_ThnHisyUrs_vPExcNuF  | hdonline.vn       | | [nguồn](//fb.com/492743724391086)
 //accessurl.com/vJ2fhARW#12v9tgbi0      | tv.zing.vn        | | [nguồn](//fb.com/471268223205303)
-//accessurl.com/AqcBqM_a#33ed5m4jk      | fptplay.net       | | [nguồn](//fb.com/471269626538496)
+//accessurl.com/AqcBqM_a#33ed5m4jk      | fptplay.net       | | [nguồn](//:fb.com/471269626538496)
 //accessurl.com/qCOH20ps#khqd883ms      | WWE               |
 //accessurl.com/8FpOb_KN#p999ljl18      | mp3.zing.vn       | | [nguồn](//fb.com/471663566499102)
 //accessurl.com/8Des3Hja#g5nagabq0      | lynda.com		      | | [nguồn](//fb.com/478643662467759)
