@@ -2,4 +2,4 @@
 https://graph.facebook.com/{id}/feed?fields=comments.limit(1).summary(true),likes.limit(1).summary(true)
 
 Action comment stt <br>
-https://graph.facebook.com/$id/comments?method=post&access_token=$token&message=$message
+<code>https://graph.facebook.com/$id/comments?method=post&access_token=$token&message=$message</code>
