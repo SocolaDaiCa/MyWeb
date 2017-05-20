@@ -1,7 +1,7 @@
-|Get link               | mediafire.com |
+|Get link               | Trang |
 |-----------------------|---------------|
 www.getlink.s2u.vn      | mediafire.com |
-
+http://ifetch.zicdu.net | fshare.com    |
 |get link |   |   |   |
 |---------|---|---|---|
 http://247leech.com
