@@ -3,6 +3,7 @@
 www.getlink.s2u.vn        | mediafire.com |
 http://getlink-fshare.net | get tạp nham  |
 http://ifetch.zicdu.net   | fshare.com    |
+http://getlink-fshare.net | fshare.com    |
 
 |get link |   |   |   |
 |---------|---|---|---|
