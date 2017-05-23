@@ -4,8 +4,9 @@
 |-----------------|----------|----------|-----|
 www.infinityfree.net        | dùng sub domain của họ  | |               |
 www.thefreecpanel.com       |                         | |               |
+www.freesubdomain.org       |                         | |               |
 www.ago.vn                  | dùng sub domain của họ  | | free.byethost |
-www.gocloudwebhosting.com | dùng thử 30 ngày        | |
+www.gocloudwebhosting.com   | dùng thử 30 ngày        | |
 
 VPS free
 
