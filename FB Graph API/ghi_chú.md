@@ -3,5 +3,6 @@ https://graph.facebook.com/{id}/feed?fields=comments.limit(1).summary(true),like
 
 Action comment stt <br>
 https://graph.facebook.com/$id/comments?method=post&access_token=$token&message=$message
+
 Lấy avatar <br>
 https://graph.facebook.com/$id/picture?type=large&redirect=true&width=40&height=40
