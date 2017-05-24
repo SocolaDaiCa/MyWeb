@@ -2,4 +2,6 @@
 https://graph.facebook.com/{id}/feed?fields=comments.limit(1).summary(true),likes.limit(1).summary(true)
 
 Action comment stt <br>
-<span>https:\//graph.facebook\.com/$id/comments?method=post&access_token=$token&message=$message</span>
+https://graph.facebook.com/$id/comments?method=post&access_token=$token&message=$message
+Lấy avatar <br>
+https://graph.facebook.com/$id/picture?type=large&redirect=true&width=40&height=40
