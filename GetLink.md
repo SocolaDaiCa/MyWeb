@@ -5,6 +5,7 @@ http://getlink-fshare.net     | get tạp nham  |
 http://ifetch.zicdu.net       | fshare.com    |
 http://getlink-fshare.net     | fshare.com    |
 http://vocvoc.net/index-fshare| fshare.com    |
+http://ifetch.zicdu.net       | f4share.com   |
 |get link |   |   |   |
 |---------|---|---|---|
 http://247leech.com
