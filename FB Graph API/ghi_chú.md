@@ -19,5 +19,5 @@ reactions.type(HAHA).limit(0).summary(true).as(haha),
 reactions.type(SAD).limit(0).summary(true).as(sad),
 reactions.type(ANGRY).limit(0).summary(true).as(angry),
 reactions.type(THANKFUL).limit(0).summary(true).as(thankfull)
-
+,NONE, LIKE, LOVE, WOW, HAHA, SAD, ANGRY, THANKFUL
 </pre>
