@@ -29,6 +29,7 @@ http://colormind.io                               | phối màu
 https://pictones.firebaseapp.com                  | lấy mã màu từ ảnh
 http://cssreference.io                            | CSS Reference
 http://htmlreference.io                           | HTML Reference
+https://symu.co/freebies/templates-4              | Free PSD Templates
 https://pageweight.imgix.com                      | giúp đo trang web để tìm ra những ảnh có kích cỡ lớn đang ảnh hưởng tới tốc độ tải trang
 
 3. https://www.cuba-platform.com/development-tools#cubastudio
