@@ -6,3 +6,4 @@ https://graph.facebook.com/$id/comments?method=post&access_token=$token&message=
 
 Lấy avatar <br>
 https://graph.facebook.com/$id/picture?type=large&redirect=true&width=40&height=40
+order(reverse_chronological) sắp xếp theo trình tự mới nhất
