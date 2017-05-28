@@ -25,12 +25,13 @@ www.accessurl.com/I82VtnIe#87kzsx         | Linksvip          |
 www.accessurl.com/TweU#fnnj4q             | Linksvip          |
 www.accessurl.com/s/7qYmRBpVh_-OMY5pK2O6  | Linksvip          | www.fb.com/502011766797615
 www.accessurl.com/s/62oadvUT4QH0m6ybwZ-I  | mp3.zing.vn       | www.fb.com/493301944335264
-www.accessurl.com/CInZA_LL#llealdcq8      | Linksvip          | www.fb.com/461036374228488 | iloveyou_0071412@yahoo.com 
-www.accessurl.com/aR0zjU5o#bsph8or6b      | fshare.vn         | www.fb.com/479077769091015 | tewisken@gmail.com   
+www.accessurl.com/CInZA_LL#llealdcq8      | Linksvip          | www.fb.com/461036374228488
+www.accessurl.com/aR0zjU5o#bsph8or6b      | fshare.vn         | www.fb.com/479077769091015
 www.accessurl.com/s/pntFGh1f4UVqU16VKgVM  | fshare.vn         | www.fb.com/499242083741250
 www.accessurl.com/s/TlQ9KL0XEFLtp9Fr5LNU  | hdonline.vn       | www.fb.com/490081231324002
 www.accessurl.com/s/_ThnHisyUrs_vPExcNuF  | hdonline.vn       | www.fb.com/492743724391086
 www.accessurl.com/s/WhFi6G1RHv9QsX5dXRXL  | hdonline.vn       | www.fb.com/500695036929288
+www.accessurl.com/s/ZyJpmFJJAhJTYKNd48jM  | hdonline.vn       | www.fb.com/487211691610956
 www.accessurl.com/vJ2fhARW#12v9tgbi0      | tv.zing.vn        | www.fb.com/471268223205303
 www.accessurl.com/s/oHCOccDsdfeZD5N-kz5C  | Tenlua.vn         | www.fb.com/500280106970781
 www.accessurl.com/AqcBqM_a#33ed5m4jk      | fptplay.net       | www.fb.com/471269626538496
