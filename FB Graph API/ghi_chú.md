@@ -10,6 +10,8 @@ https://graph.facebook.com/$id/picture?type=large&redirect=true&width=40&height=
 
 order(reverse_chronological) sắp xếp theo trình tự mới nhất
 
+check avatar mặc định nếu is_silhouette == TRUE thì đó là AVATAR MẶC ĐỊNH
+https://graph.facebook.com/100003297565758/picture?redirect=false
 
 reactions.type(NONE).limit(0).summary(true).as(none){total_count},
 reactions.type(LIKE).limit(0).summary(true).as(like){total_count},
