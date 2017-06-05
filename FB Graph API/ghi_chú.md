@@ -13,6 +13,9 @@ order(reverse_chronological) sắp xếp theo trình tự mới nhất
 check avatar mặc định nếu is_silhouette == TRUE thì đó là AVATAR MẶC ĐỊNH
 https://graph.facebook.com/100003297565758/picture?redirect=false
 
+pretty=0 in không khoảng trắng
+pretty=1 in có khoảng trắng và xuống dòng
+
 reactions.type(NONE).limit(0).summary(true).as(none){total_count},
 reactions.type(LIKE).limit(0).summary(true).as(like){total_count},
 reactions.type(LOVE).limit(0).summary(true).as(love),
