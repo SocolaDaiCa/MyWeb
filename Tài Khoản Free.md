@@ -19,6 +19,7 @@ fshare        |                             |                 | [link](www.docs.
 
 |AccessUrl| Link | Nguồn |
 |---------|------|-------|
+|4share.vn 	| www.accessurl.com/s/lLKWxziwZCfh5Mvp-R7B 	| www.fb.com/513211472344311
 |hdonline.vn| www.accessurl.com/s/TlQ9KL0XEFLtp9Fr5LNU 	| www.fb.com/490081231324002
 |			| www.accessurl.com/s/_ThnHisyUrs_vPExcNuF 	| www.fb.com/492743724391086
 |			| www.accessurl.com/s/WhFi6G1RHv9QsX5dXRXL 	| www.fb.com/500695036929288
@@ -38,8 +39,8 @@ fshare        |                             |                 | [link](www.docs.
 |			| www.accessurl.com/s/0xIy_eKk0XlzbFiY_b4r 	| www.fb.com/509172796081512
 |			| www.accessurl.com/s/R6hwlsIWjP0qGO3Dlsbj 	| www.fb.com/509172796081512
 |			| www.accessurl.com/q6p52Krf#qmjxm5 		| www.fb.com/511494249182700
-|			| www.accessurl.com/s/YXBhXTeAG75h-0yVVIEc#jls61mrcs
-||'|
+|			| www.accessurl.com/s/YXBhXTeAG75h-0yVVIEc
+|   |   |
 |mp3.zing.vn| www.accessurl.com/s/62oadvUT4QH0m6ybwZ-I 	| www.fb.com/493301944335264
 ||'|
 |fshare	 	| www.accessurl.com/aR0zjU5o#bsph8or6b 		| www.fb.com/479077769091015
