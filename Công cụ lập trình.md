@@ -7,30 +7,35 @@
 
 |   |  |
 |---|---|
-http://ideone.com									                | code editor
-https://coderpad.io									              | code editor
-http://ideone.com									                | code editor
+http://ideone.com									| code editor
+https://coderpad.io									| code editor
+http://ideone.com									| code editor
 http://dillinger.io                             	| Online Markdown Editor
 https://codeshare.io                            	| Thảo luận code theo nhóm
 http://codepen.io/pen                           	| demo code html css js
 https://codeanywhere.com                        	|
 http://freetuts.net/editor.html                		|
-http://tutorialspoint.com/compile_cpp_online.php  |
+http://tutorialspoint.com/compile_cpp_online.php 	|
 http://lmgtfy.com                               	| Hướng dẫn search Google
 https://developers.facebook.com/tools/explorer  	| Graph FB API
-https://developers.facebook.com/tools/accesstoken | access token
-https://rollapp.com                               | Desktop online (dùng thích)
+https://developers.facebook.com/tools/accesstoken 	| access token
+https://rollapp.com 								| Desktop online (dùng thích)
 
 |web|   |
 |---|---|
-https://c9.io                                   	| code editor
-https://webgradients.com                          | phối màu back ground
-http://colormind.io                               | phối màu
-https://pictones.firebaseapp.com                  | lấy mã màu từ ảnh
-http://cssreference.io                            | CSS Reference
-http://htmlreference.io                           | HTML Reference
-https://symu.co/freebies/templates-4              | Free PSD Templates
-https://pageweight.imgix.com                      | giúp đo trang web để tìm ra những ảnh có kích cỡ lớn đang ảnh hưởng tới tốc độ tải trang
+https://c9.io                                   | code editor
+https://webgradients.com                        | phối màu back ground
+http://colormind.io                             | phối màu
+https://pictones.firebaseapp.com 				| lấy mã màu từ ảnh
+http://cssreference.io 							| CSS Reference
+http://htmlreference.io 						| HTML Reference
+https://symu.co/freebies/templates-4 			| Free PSD Templates
+https://pageweight.imgix.com 					| giúp đo trang web để tìm ra những ảnh có kích cỡ lớn đang ảnh hưởng tới tốc độ tải trang
+Font |
+http://fontjoy.com 								| chọn font
+
+
+
 
 3. https://www.cuba-platform.com/development-tools#cubastudio
 4. https://codenvy.io/site/login…
@@ -51,4 +56,33 @@ code mẫu html         | http://codepen.io/pens
 Team view Lan         | https://superuser.com/questions/436231/teamviewer-meetings-on-a-lan-connection
 https://developers.facebook.com/docs/graph-api/reference/v2.8/album/photos
 https://developers.facebook.com/docs/?hc_location=ufi
+
+
+
+
+
+
+
+
+
+
+
+# vài cái linh tinh khác
+|   |   |
+|---|---|
+https://fatesinger.com/78705 | Key Sublime text 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
