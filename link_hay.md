@@ -19,8 +19,12 @@ http://www.howkteam.com         	|
 http://lunicode.com/creepify    	| chữ bẩn bẩn |
 https://opennetmap.co/          	| Tìm wifi free quanh đây 
 https://cc.namsopro.com         	| vida ảo
-http://www.patatap.com           | patatap
-
+http://www.patatap.com 				| patatap
+http://picascii.com/ 				| image to ascii
+http://photofunia.com/				| lồng ảnh vào nền có sẵn
+https://www.ventusky.com 			| dự báo thời tiết
+   |
+https://accounts.google.com/signin/recovery | lấy lại mk gmail
 
 
 
