@@ -1,0 +1,145 @@
+
+tông hợp 1 số api mà mình đã sưu tầm đc từ j2team, lam-oscar, và 1 số web khác ... có rất nhiều api nhưng hầu như là die hết rồi mình cũng chỉ tổng hớp 1 số api mình đang dùng đc và mình ko share code vì cái có cái ko nên các bạn cứ tìm code ở đâu đó trên mạng nhé
+-----------------------------------------------------------------------------------------------------------------------
+
+1: http://code.junookyo.xyz/apps/j2team-community-ranking/bots/simsimi.php?msg={{tinnhan}} - api simsimi mình đang dùng thấy rất ok nhưng mỗi tội hơi ngu và nó là toàn xưng chị  
+2: https://simsimi-audio.herokuapp.com/simsimi-audio.php?msg={{text}} - api này chuyển tin nhắn thành lời thoại của chị google dịch ( bác này ko cài đặt đc cái này ib minh cài đặt hộ nhé ai nhọc đây... link fb : www.facebook.com/isad.2602)
+3: http://lamoscar-official.com/test/4.php?url={{linkxvideo}} - api này có chức năng get lnk xvideo . Bạn chỉ cần copy link phim trên xvideo rồi xem ...
+4: http://lamoscar-official.com/phim/phim14.php?key={{tenphim}} - api này có chức năng tìm phim bạn muốn xem trên http://phim14.net
+5: http://lamoscar-official.com/you/?key={{tenvideo}} - api này có tác dụng tìm video trên youtube cho bạn
+6: https://cx-nonameteam.rhcloud.com/dh/googl.php?link={{rutgon}} - api này có tác dụng rút gọn link về dạng https://goo.gl....
+7: http://lamoscar-official.com/you/zing.php?key={{baihat}} - api có tác dụng tìm nhạc trên zingmp3
+8: https://simi.ngocthieu.info/dich.php?td=en-vi&noidung={{google}} - api này có  tác dụng dịch các văn bản của bạn
+9: https://api.trolyfacebook.com/thoitiet/?noidung={{thoitiet}} - api này có tác dụng kiểm tra thời tiết các khu vực mà bạn muốn kiểm tra thời tiết
+--> dưới là 9 api mình đang dùng và ko die cái nào  bạn nào ko biết dùng hoặc ko biết cài đặt cứ ib cho mình nhé !!! Mình sẵn sàng giúp mọi lúc nhất là buổi tối đêm --------- link facebook của mình : www.facebook.com/isad.2602
+-------------------------------------------------------------------------------------------------
+
+bên cạnh đó mình còn 1 số api khác mình copy từ bài tổng hợp của ZeroUnix cho bạn nào muốn dùng
+
+[Audio API]:
+
+- Audio mp3.zing.vn: 
+
+    http://lamoscar-official.com/you/zing.php?key=<name>
+
+- Audio nhaccuatui : 
+
+    http://lamoscar-official.com/you/nct.php?key=<name>
+
+[Chat API]:
+
+- Simsimi:
+
+     http://www.simsimi.com/getRealtimeReq?uuid=UwmPMKoqosEETKleXWGOJ6lynN1TQq18wwvrmCy6IRt&lc=<lang>&ft=<0 or 1>&reqText=<string>
+
+- Bé Điệu:
+
+     https://api.trolyfacebook.com/chat/?tenbot=<base64>&loctuxau=<0 or 1>&noidung=<string>
+
+Phụ chú:
+
+    Giá trị của lc là có thể là vi, en, …
+
+    Giá trị của reqText và noidung là một chuỗi.
+
+    Giá trị của tenbot là một chuỗi được encode bằng [Base64].
+
+    Giá trị của loctuxau là 0 (không lọc) và 1 (có lọc)
+
+
+[Google/GetLink API]:
+
+- Get link Drive:
+
+     http://lamoscar-official.com/test/test.php?url=<URL>
+
+- Get info vn.edu: 
+
+    http://lamoscar-official.com/api/vnedu.php?tk=<sđt>&pass=<pass>
+
+- Google Search:
+
+     http://lamoscar-official.com/you/google.php?key=<string>
+
+- Translator:
+
+      https://simi.ngocthieu.info/dich.php?td=en-vi&noidung=<string>
+
+[Etc]:
+
+- SMS: [MỚI]
+
+    http://lamoscar-official.com/api/sendmessage.php?tin=<string>&sdt=<sđt>
+
+- Bypass Captcha: [MỚI]
+
+    http://follow.pt2k2.com/api-test/?img=<URL>
+
+- Kiểm tra tiền điện: [MỚI]
+
+     http://luotsach.com/api/tiendien.php?makh=<code>&thang=<month>&nam=<year>
+
+- Text to Voice:
+
+     https://api.trolyfacebook.com/speech/?text=<string>
+
+- Tìm bài hát:
+
+      https://api.trolyfacebook.com/baihat/?baihat=<string>
+
+- Xem thời tiết:
+
+    https://api.trolyfacebook.com/thoitiet/?noidung=<string>
+
+- Math:
+
+    https://api.trolyfacebook.com/giaitoan/?noidung=<string>
+
+- Search món ăn:
+
+     http://lamoscar-official.com/api/nauan.php?key=<name>
+
+- Tìm videos Youtube:
+
+      http://lamoscar-official.com/you/index.php?key=<string>
+
+- Tìm thumbnails youtube: 
+
+     http://lamoscar-official.com/you/index2.php?key=<string>
+
+- Rút gọn link (goo.gl):
+
+     https://cx-nonameteam.rhcloud.com/dh/googl.php?link=<URL>
+
+Phụ chú:
+
+    Giá trị của sđt là số điện thoại.
+
+    Giá trị của string, name là một chuỗi.
+
+    Giá trị của url là liên kết tương ứng.
+
+    Giá trị của td là <ngôn ngữ cần dịch> - <ngôn ngữ để dịch>
+
+[18+]:
+
+Get link XVIDEOS:
+
+    http://lamoscar-official.com/test/4.php?url=<URL>
+    ---------------------------------------------------------
+    dưới đây là tổng hợp api của lam-oscar đã share mình chỉ copy lại và trùng vài cái bên trên mình đang dùng 
+
+
+http://lamoscar-official.com/api/sim.php?noidung={{noidung}} auto rep simsimi  new
+http://lamoscar-official.com/test/test.php?url={{linkdrive}} – GET LINK DRIVE
+http://lamoscar-official.com/test/4.php?url={{linkxvideo}} – GET LINK XVIDEOS
+http://lamoscar-official.com/you/index2.php?key={{tenvideo}} tìm ảnh video youtube qua từ khóa tìm kiếm
+http://lamoscar-official.com/you/?key={{tenvideo}} tìm video youtube qua từ khóa
+http://lamoscar-official.com/you/google.php?key={{tukhoa}} Tìm kết quả top 1 google
+http://lamoscar-official.com/you/google2.php?key={{tukhoa}} Giống trên nhưng lấy kết quả từ ASk phòng khi api trên die do google chặn
+http://lamoscar-official.com/you/zing.php?key={{baihat}} Gửi audio bài hát qua từ khóa từ Zing Mp3
+http://lamoscar-official.com/you/nct.php?key={{baihat}} như trên nhưng lấy kết quả từ nhaccuatui
+http://lamoscar-official.com/phim/phim14.php?key={{tenphim}} tìm phim
+http://lamoscar-official.com/api/nauan.php?key={{tenmonan}} tìm công thức nấu ăn  new
+http://lamoscar-official.com/api/sendo.php?key={{tensp}} tìm giá và mua sp new 
+http://lamoscar-official.com/api/laydiem.php?tk={{tk}}&pass={{pass}} get điểm vnedu new

@@ -1,11 +1,12 @@
-|Get link                     | Trang |
-|-----------------------------|---------------|
-www.getlink.s2u.vn            | mediafire.com |
-http://getlink-fshare.net     | get tạp nham  |
-http://ifetch.zicdu.net       | fshare.com    |
-http://getlink-fshare.net     | fshare.com    |
-http://vocvoc.net/index-fshare| fshare.com    |
-http://ifetch.zicdu.net       | f4share.com   |
+|Get link                       | Trang |
+|-------------------------------|---------------|
+www.getlink.s2u.vn 				| mediafire.com |
+http://getlink-fshare.net 		| get tạp nham  |
+http://ifetch.zicdu.net 		| fshare.com    |
+http://getlink-fshare.net 		| fshare.com    |
+http://vocvoc.net/index-fshare 	| fshare.com    |
+http://ifetch.zicdu.net 		| f4share.com   |
+http://www.linkvip.info 	 	| f4share  mp3.zing.vn |
 |get link |   |   |   |
 |---------|---|---|---|
 http://247leech.com

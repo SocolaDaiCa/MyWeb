@@ -22,16 +22,16 @@ document/d/15M00KhjFQfQvIpG5UFtOSm5RxOK28ce9LosOpHiH0Yw/edit)
 
 |AccessUrl| Link | Nguồn |
 |---------|------|-------|
-|4share.vn 	| www.accessurl.com/s/lLKWxziwZCfh5Mvp-R7B 	| www.fb.com/513211472344311
-|			| www.accessurl.com/s/6U8Xm5U5xlcGPY3EdsJk  | www.fb.com/513790902286368
+|4share.vn 	|  	| 
 |hdonline.vn| www.accessurl.com/s/TlQ9KL0XEFLtp9Fr5LNU 	| www.fb.com/490081231324002
 |			| www.accessurl.com/s/_ThnHisyUrs_vPExcNuF 	| www.fb.com/492743724391086
 |			| www.accessurl.com/s/WhFi6G1RHv9QsX5dXRXL 	| www.fb.com/500695036929288
 |			| www.accessurl.com/s/ZyJpmFJJAhJTYKNd48jM 	| www.fb.com/487211691610956
 |			| www.accessurl.com/s/mpHvd-4iYqtcjQRwy18o 	| www.fb.com/509305606068231
-|		|   |
+|			| www.accessurl.com/s/RPP3Or7SiuUT_smA1rUu 	| www.fb.com/515780182087440
+|			|											|
 |HDViet		| www.accessurl.com/s/Cj-xyFu9f4yBhryCPyZk	| www.fb.com/506208076377984
-|		|   |
+|			|   										|
 |Linksvip	| www.accessurl.com/4_LHJSlB#fd2fe95l2 		| 
 |			| www.accessurl.com/Q1f7SHig#gnu57cshj 		| 
 |			| www.accessurl.com/2Y1BsS2_#927jk2dbo 		| 
@@ -43,27 +43,26 @@ document/d/15M00KhjFQfQvIpG5UFtOSm5RxOK28ce9LosOpHiH0Yw/edit)
 |			| www.accessurl.com/s/0xIy_eKk0XlzbFiY_b4r 	| www.fb.com/509172796081512
 |			| www.accessurl.com/s/R6hwlsIWjP0qGO3Dlsbj 	| www.fb.com/509172796081512
 |			| www.accessurl.com/q6p52Krf#qmjxm5 		| www.fb.com/511494249182700
-|			| www.accessurl.com/s/YXBhXTeAG75h-0yVVIEc
-|		|   |
+|			| www.accessurl.com/s/YXBhXTeAG75h-0yVVIEc 	|
+|			|											|
 |mp3.zing.vn| www.accessurl.com/s/62oadvUT4QH0m6ybwZ-I 	| www.fb.com/493301944335264
-|		|   |
-|fshare	 	| www.accessurl.com/aR0zjU5o#bsph8or6b 		| www.fb.com/479077769091015
-|		 	| www.accessurl.com/s/pntFGh1f4UVqU16VKgVM 	| www.fb.com/499242083741250
+|			|											|
+|fshare	 	| www.accessurl.com/s/pntFGh1f4UVqU16VKgVM 	| www.fb.com/499242083741250
 |			| www.accessurl.com/s/hccqymA_fE4HaOAJz5y4	| www.fb.com/511078322557626
-|		|   |
+|			|											|
 |tv.zing.vn	| www.accessurl.com/vJ2fhARW#12v9tgbi0 		| www.fb.com/471268223205303
-|		|   |
+|			|											|
 |Tenlua.vn 	| www.accessurl.com/s/oHCOccDsdfeZD5N-kz5C 	| www.fb.com/500280106970781
-|		|   |
+|			|											|
 |tailieu.vn	| www.accessurl.com/s/E5Uz30s8L20sPwwoMmNz 	| www.fb.com/504337976564994
-|		|   |
+|			|											|
 |fptplay.net| www.accessurl.com/AqcBqM_a#33ed5m4jk 		| www.fb.com/471269626538496
-|		|   |
+|			|											|
 |WWE 		| www.accessurl.com/qCOH20ps#khqd883ms 		| 
-|		|   |
+|			|											|
 |mp3.zing.vn| www.accessurl.com/8FpOb_KN#p999ljl18 		| www.fb.com/471663566499102
-|		|   |
+|			|											|
 |lynda.com 	| www.accessurl.com/8Des3Hja#g5nagabq0 		| www.fb.com/478643662467759
-|		|   |
+|			|											|
 |pubvn.net 	| www.accessurl.com/s/BXQubT7fuUo0Yadng4Zo 	| www.fb.com/502876996711092
-|		|   |
+|			|											|
