@@ -47,12 +47,11 @@ document/d/15M00KhjFQfQvIpG5UFtOSm5RxOK28ce9LosOpHiH0Yw/edit)
 |			|											|
 |mp3.zing.vn| www.accessurl.com/s/62oadvUT4QH0m6ybwZ-I 	| www.fb.com/493301944335264
 |			|											|
-|fshare	 	| www.accessurl.com/s/pntFGh1f4UVqU16VKgVM 	| www.fb.com/499242083741250
-|			| www.accessurl.com/s/hccqymA_fE4HaOAJz5y4	| www.fb.com/511078322557626
+|fshare	 	| www.accessurl.com/s/hccqymA_fE4HaOAJz5y4	| www.fb.com/511078322557626
 |			|											|
 |tv.zing.vn	| www.accessurl.com/vJ2fhARW#12v9tgbi0 		| www.fb.com/471268223205303
 |			|											|
-|Tenlua.vn 	| www.accessurl.com/s/oHCOccDsdfeZD5N-kz5C 	| www.fb.com/500280106970781
+|Tenlua.vn 	|  	| 
 |			|											|
 |tailieu.vn	| www.accessurl.com/s/E5Uz30s8L20sPwwoMmNz 	| www.fb.com/504337976564994
 |			|											|
