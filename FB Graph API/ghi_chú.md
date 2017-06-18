@@ -14,6 +14,9 @@ https://graph.facebook.com/100003297565758/picture?redirect=false
 kiểm tra thời gian tồn tại của token
 https://graph.facebook.com/oauth/access_token_info?client_id={$client_id}&access_token={$access_token}
 
+kiểm tra quyền của token
+https://graph.facebook.com/me/permissions?access_token={$token}
+
 
 order(reverse_chronological) sắp xếp theo trình tự mới nhất
 hiển thị json
