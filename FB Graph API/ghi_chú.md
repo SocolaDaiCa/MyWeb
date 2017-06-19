@@ -17,6 +17,9 @@ https://graph.facebook.com/oauth/access_token_info?client_id={$client_id}&access
 kiểm tra quyền của token
 https://graph.facebook.com/me/permissions?access_token={$token}
 
+https://graph.facebook.com/v2.8/me/blocked?uid={$uid}
+
+
 
 order(reverse_chronological) sắp xếp theo trình tự mới nhất
 hiển thị json
