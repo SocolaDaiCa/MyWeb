@@ -17,9 +17,11 @@ https://graph.facebook.com/oauth/access_token_info?client_id={$client_id}&access
 kiểm tra quyền của token
 https://graph.facebook.com/me/permissions?access_token={$token}
 
+Block user
 https://graph.facebook.com/v2.8/me/blocked?uid={$uid}
 
-
+reactions a post
+https://graph.facebook.com/v2.9/UID_IDPOST/reactions/?type=THANKFUL&method=post&access_token={$access_token}
 
 order(reverse_chronological) sắp xếp theo trình tự mới nhất
 hiển thị json

@@ -33,6 +33,7 @@ https://symu.co/freebies/templates-4 			| Free PSD Templates
 https://pageweight.imgix.com 					| giúp đo trang web để tìm ra những ảnh có kích cỡ lớn đang ảnh hưởng tới tốc độ tải trang
 Font |
 http://fontjoy.com 								| chọn font
+https://developers.google.com/web/tools/lighthouse/ | đánh giá web
 
 
 
