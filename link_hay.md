@@ -25,7 +25,7 @@ http://photofunia.com/				| lồng ảnh vào nền có sẵn
 https://www.ventusky.com 			| dự báo thời tiết
 http://gocthugian.com.vn/che/	    | chế ảnh
 https://accounts.google.com/signin/recovery | lấy lại mk gmail
-
+https://www.multcloud.com 			| syn drive
 
 
 acc
