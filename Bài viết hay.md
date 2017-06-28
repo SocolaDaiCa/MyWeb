@@ -8,15 +8,17 @@ Kipalog 	| https://kipalog.com/posts/Lap-trinh-va-Toan-hoc
 			| https://kipalog.com/posts/Design-form-the-nao-cho-tot
 			| https://kipalog.com/posts/Viet-code-nghe-thuat--de-tro-thanh-Pro---Phan-1
 			| 
-Tecktalk 	|https://techtalk.vn/hon-ma-coder.html
-			| https://techtalk.vn/gia-nhu-tao-loading-facebook-bang-css-that-don-gian.html
+Tecktalk 	| https://techtalk.vn/hon-ma-coder.html
+			| https://techtalk.vn/bi-kip-cho-web-text-nhung-loi-nghiep-du-thuong-gap.html
 			| https://techtalk.vn/coding-thap-bat-chuong.html
+			| https://techtalk.vn/cac-code-style-gay-tranh-cai-trong-lap-trinh.html
+			| https://techtalk.vn/gia-nhu-tao-loading-facebook-bang-css-that-don-gian.html
 			| https://techtalk.vn/lap-trinh-vien-hanh-phuc.html
 			| https://techtalk.vn/tai-sao-dan-it-can-viet-blog.html
 			| https://techtalk.vn/tu-hoc-lap-trinh-hoi-lam-sao-de-duoc-tra-loi.html
 			| https://techtalk.vn/dat-ten-bien-nhu-the-nao-de-chuan-clean-code.html
 			| https://techtalk.vn/su-dung-hieu-ung-zeiganik-de-hoc-code-nhanh-hon.html
-			| https://techtalk.vn/bi-kip-cho-web-text-nhung-loi-nghiep-du-thuong-gap.html
+			| https://techtalk.vn/nhung-nguyen-tac-nhung-dinh-luat-cua-lap-trinh-ma-chung-ta-nen-co-san-trong-dau.html
 			| https://techtalk.vn/ngunglambieng-canh-tinh-thuc-trang-luoi-bieng-tu-trong-tu-tuong-dang-lo-ngai-cua-sinh-vien-cntt.html
 			|
 junookyo 	| https://junookyo.blogspot.com/2016/05/hoc-lap-trinh-de-lam-gi.html

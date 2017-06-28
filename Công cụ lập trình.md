@@ -1,9 +1,31 @@
-
-### [NHỮNG CLOUD IDE DÀNH CHO DÂN LẬP TRÌNH]
+<h3>[NHỮNG CLOUD IDE DÀNH CHO DÂN LẬP TRÌNH]</h3>
 Đây là những cloud ide để chạy code, viết code,... rất bổ ích và cần thiết
--giúp bạn có thể lập trình web ở mọi lúc mọi nơi <br>
+-giúp bạn có thể lập trình web ở mọi lúc mọi nơi.<br>
 -không cần cài các phần mềm lằng nhằng, miễn là các bạn có kết nối mạng là code được <br>
 -Hỗ trợ làm việc nhóm <br>
+Cloud ide
+<ul>
+	<li>https://c9.io</li>
+	<li>https://codenvy.io</li>
+	<li></li>
+</ul>
+color
+<ul>
+	<li></li>
+</ul>
+<table>
+	<thead>
+		<tr>
+			<th>ádas</th>
+			<th>sadas</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr><td>ádasd</td><td>ádasd</td></tr>
+	</tbody>
+</table>
+
+
 
 |   |  |
 |---|---|
@@ -23,7 +45,6 @@ https://rollapp.com 								| Desktop online (dùng thích)
 
 |web|   |
 |---|---|
-https://c9.io                                   | code editor
 https://webgradients.com                        | phối màu back ground
 http://colormind.io                             | phối màu
 https://pictones.firebaseapp.com 				| lấy mã màu từ ảnh
@@ -39,7 +60,6 @@ https://developers.google.com/web/tools/lighthouse/ | đánh giá web
 
 
 3. https://www.cuba-platform.com/development-tools#cubastudio
-4. https://codenvy.io/site/login…
 5. http://www.koding.com/
 6. https://shiftedit.net/
 7. https://super.neutrondrive.com/
@@ -59,20 +79,8 @@ https://developers.facebook.com/docs/graph-api/reference/v2.8/album/photos
 https://developers.facebook.com/docs/?hc_location=ufi
 
 
-
-
-
-
-
-
-
-
-
-# vài cái linh tinh khác
-|   |   |
-|---|---|
-https://fatesinger.com/78705 | Key Sublime text 3
-
+<h3>vài cái linh tinh khác</h3>
+<p>Key Sublime text 3 https://fatesinger.com/78705</p>
 
 
 

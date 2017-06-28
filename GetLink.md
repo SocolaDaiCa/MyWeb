@@ -1,3 +1,8 @@
+Fshare.com
+<ul>
+	<li>http://247leech.com</li>
+</ul>
+
 |Get link                       | Trang |
 |-------------------------------|---------------|
 www.getlink.s2u.vn 				| mediafire.com |
@@ -9,7 +14,7 @@ http://ifetch.zicdu.net 		| f4share.com   |
 http://www.linkvip.info 	 	| f4share  mp3.zing.vn |
 |get link |   |   |   |
 |---------|---|---|---|
-http://247leech.com
+
 http://botay.click
 http://downvids.net
 http://fget.ml

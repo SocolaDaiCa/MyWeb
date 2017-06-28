@@ -26,7 +26,7 @@ https://www.ventusky.com 			| dự báo thời tiết
 http://gocthugian.com.vn/che/	    | chế ảnh
 https://accounts.google.com/signin/recovery | lấy lại mk gmail
 https://www.multcloud.com 			| syn drive
-
+http://graphoverflow.com/graphs/3d-periodic-table.html | bảng tuần hoàn 3d
 
 acc
 [Nick Fshare Hoai Niem](https://docs.google.com/document/d/15M00KhjFQfQvIpG5UFtOSm5RxOK28ce9LosOpHiH0Yw/edit) [Nguồn](https://.fb.com/463525617312897)<br>
