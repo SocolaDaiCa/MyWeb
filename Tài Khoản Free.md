@@ -15,7 +15,8 @@ Netflix        | lamoscarnnt@gmail.com         | lamoscar2@17      | www.fb.com/
 vnz-leech.com  | j2team		                   | abc12345          |
 tailieu.vn     | huhuhu85                      | 130686            | www.fb.com/454106888254770
 fshare.com	   | vydaophuong@gmail.com         | bestyasuo		   | www.fb.com/477284892603636
-               | phuongvo1@gmail.com 		   | fb.com/groups/flixperience | www.fb.com/515245045474287
+               | phuongvo1@gmail.com 		   | fb.com/groups/
+               flixperience | www.fb.com/515245045474287
 
 fshare         |                               |                   | [link](www.docs.google.com/
 document/d/15M00KhjFQfQvIpG5UFtOSm5RxOK28ce9LosOpHiH0Yw/edit)
@@ -44,6 +45,7 @@ document/d/15M00KhjFQfQvIpG5UFtOSm5RxOK28ce9LosOpHiH0Yw/edit)
 |			| www.accessurl.com/s/R6hwlsIWjP0qGO3Dlsbj 	| www.fb.com/509172796081512
 |			| www.accessurl.com/q6p52Krf#qmjxm5 		| www.fb.com/511494249182700
 |			| www.accessurl.com/s/YXBhXTeAG75h-0yVVIEc 	|
+|			| www.accessurl.com/s/IbvywqqhHt8uwTYHzjJs 	| www.fb.com/524463514552440
 |			|											|
 |mp3.zing.vn| www.accessurl.com/s/62oadvUT4QH0m6ybwZ-I 	| www.fb.com/493301944335264
 |			|											|

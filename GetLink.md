@@ -1,6 +1,7 @@
 Fshare.com
 <ul>
 	<li>http://247leech.com</li>
+	<li>https://getlinkfshare.com/</li>
 </ul>
 
 |Get link                       | Trang |
