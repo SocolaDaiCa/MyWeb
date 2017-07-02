@@ -1,27 +1,28 @@
 <pre>
 <a href="http://stackoverflow.com/questions/17755753/how-to-get-likes-count-when-searching-facebook-graph-api-with-search-xxx" target="_blank">Like count, comments count</a>
-https://graph.facebook.com/{id}/feed?fields=comments.limit(1).summary(true),likes.limit(1).summary(true)
+	https://graph.facebook.com/{id}/feed?fields=comments.limit(1).summary(true),likes.limit(1).summary(true)
 
 Action comment stt
-https://graph.facebook.com/{$id}/comments?method=post&access_token=$token&message={$message}
+	https://graph.facebook.com/{$id}/comments?method=post&access_token=$token&message={$message}
 
 Lấy avatar
-https://graph.facebook.com/{$id}/picture?type=large&redirect=true&width=40&height=40
+	https://graph.facebook.com/{$id}/picture?type=large&redirect=true&width=40&height=40
 
 check avatar mặc định nếu is_silhouette == TRUE thì đó là AVATAR MẶC ĐỊNH
-https://graph.facebook.com/100003297565758/picture?redirect=false
+	https://graph.facebook.com/100003297565758/picture?redirect=false
 
 kiểm tra thời gian tồn tại của token
-https://graph.facebook.com/oauth/access_token_info?client_id={$client_id}&access_token={$access_token}
+	https://graph.facebook.com/oauth/access_token_info?client_id={$client_id}&access_token={$access_token}
 
 kiểm tra quyền của token
-https://graph.facebook.com/me/permissions?access_token={$token}
+	https://graph.facebook.com/me/permissions?access_token={$token}
 
 Block user
-https://graph.facebook.com/v2.8/me/blocked?uid={$uid}
+	https://graph.facebook.com/v2.8/me/blocked?uid={$uid}
+	https://graph.facebook.com/v2.9/4/blocked?uid='+uid+'&access_token='+token+'&method=post
 
 reactions a post
-https://graph.facebook.com/v2.9/UID_IDPOST/reactions/?type=THANKFUL&method=post&access_token={$access_token}
+	https://graph.facebook.com/v2.9/UID_IDPOST/reactions/?type=THANKFUL&method=post&access_token={$access_token}
 
 order(reverse_chronological) sắp xếp theo trình tự mới nhất
 hiển thị json
