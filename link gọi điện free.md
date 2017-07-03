@@ -31,6 +31,6 @@ Nếu hết giới hạn cuộc gọi thì cảm phiền mấy bạn đứng d�
 
 # phần 2
 https://globfone.com/send-text
-
+https://www.citrustel.com/free-online-phone
 
 
