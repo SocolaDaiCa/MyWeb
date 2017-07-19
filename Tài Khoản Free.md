@@ -9,12 +9,13 @@ Edumall        | anoymousvkl@gmail.com         | j2team            | www.fb.com/
 Edumall        | namhoaq@gmail.com             | 12345678          |
 Nhạc của tui   | ungdung.mobi                  | ungdungdotmobi    |
 Nhạc của tui   | akersxhemqei                  | akersxhemqei      | www.fb.com/504522519879873
+Nhạc của tui   | dung12a4pro				   | 09120402		   | www.fb.com/533817550283703
 Netflix        | lamnnt69@gmail.com            | lamoscar2@17      | www.fb.com/494840817514710
 Netflix        | hhuyen366@gmail.com           | lamoscar2@17      | www.fb.com/494840817514710
 Netflix        | lamoscarnnt@gmail.com         | lamoscar2@17      | www.fb.com/494840817514710
 vnz-leech.com  | j2team		                   | abc12345          |
 tailieu.vn     | huhuhu85                      | 130686            | www.fb.com/454106888254770
-fshare.com	   | vydaophuong@gmail.com         | bestyasuo		   | www.fb.com/477284892603636
+www.prezi.com | hieutran@up-4ever.com | fb.com/groups/flixperience | www.fb.com/521651404833651
                | phuongvo1@gmail.com 		   | fb.com/groups/
                flixperience | www.fb.com/515245045474287
 
@@ -46,6 +47,7 @@ document/d/15M00KhjFQfQvIpG5UFtOSm5RxOK28ce9LosOpHiH0Yw/edit)
 |			| www.accessurl.com/q6p52Krf#qmjxm5 		| www.fb.com/511494249182700
 |			| www.accessurl.com/s/YXBhXTeAG75h-0yVVIEc 	|
 |			| www.accessurl.com/s/IbvywqqhHt8uwTYHzjJs 	| www.fb.com/524463514552440
+|			| www.accessurl.com/s/nCZYEZXSqOwkgUhoMvGN 	| www.fb.com/527244100941048
 |			|											|
 |mp3.zing.vn| www.accessurl.com/s/62oadvUT4QH0m6ybwZ-I 	| www.fb.com/493301944335264
 |			|											|
@@ -70,4 +72,9 @@ document/d/15M00KhjFQfQvIpG5UFtOSm5RxOK28ce9LosOpHiH0Yw/edit)
 |			|											|
 |pubvn.net 	| www.accessurl.com/s/BXQubT7fuUo0Yadng4Zo 	| www.fb.com/502876996711092
 |			|											|
-|vnlinks.net| www.accessurl.com/s/eqRnnXBAKwilTKbWGxn3 	| www.fb.com/522231504775641
+|vnlinks.net | www.accessurl.com/s/eqRnnXBAKwilTKbWGxn3 	| www.fb.com/522231504775641
+www.vecteezy.com 	| www.accessurl.com/s/8N18kL3gwFOLDk9brpGV | www.fb.com/502634553402003
+www.brusheezy.com 	| www.accessurl.com/s/TsqgHBEiVHsKIALegotL | www.fb.com/503058956692896
+www.pngtree.com 	| www.accessurl.com/s/1SpG3Mc3S7qrv4xaq_YG | www.fb.com/502160050116120
+Zing MP3 			| www.accessurl.com/s/ite2gEMt9O18T2MIUbdI | www.fb.com/534870996845025
+Zing TV 			| www.accessurl.com/s/uVnCXgsaqPokqCaS5IOI | www.fb.com/534870996845025

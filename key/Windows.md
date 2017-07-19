@@ -2,6 +2,8 @@ Chia sẻ anh em key cài Windows kích hoạt online
 
 Windowns 10 Pro:
 	W269N-WFGWX-YVC9B-4J6C9-T83GX	(update: 22.4.2017)
+Key Win 10 RTM Pro VL:MAK
+YH7QR-2NMBB-7HJRF-8HP9Y-MY49M
 
 Windows 7 Ultimate:
 	V77DJ-CT8WB-Y3GXT-X3FBP-6F987	(update: 10/6/2017)
