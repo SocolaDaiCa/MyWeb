@@ -17,6 +17,9 @@ kiểm tra thời gian tồn tại của token
 kiểm tra quyền của token
 	https://graph.facebook.com/me/permissions?access_token={$token}
 
+lấy token các page mà mình quản lý
+	https://graph.facebook.com/me/accounts?access_token={$tọken}
+
 Block user
 	https://graph.facebook.com/v2.8/me/blocked?uid={$uid}
 	https://graph.facebook.com/v2.9/4/blocked?uid='+uid+'&access_token='+token+'&method=post

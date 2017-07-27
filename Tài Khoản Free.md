@@ -54,6 +54,7 @@ document/d/15M00KhjFQfQvIpG5UFtOSm5RxOK28ce9LosOpHiH0Yw/edit)
 |fshare	 	| www.accessurl.com/s/hccqymA_fE4HaOAJz5y4	| www.fb.com/511078322557626
 |			| www.accessurl.com/s/or58j_zgJ7niaKYtV35F	| www.fb.com/522825201382938
 |			| www.accessurl.com/s/CnmewfxNsQgIH9QmYH5b	|
+|			| www.accessurl.com/s/okvoP10_8ugiIDRWJRM3	| www.fb.com/538483693150422
 |			|											|
 |tv.zing.vn	| www.accessurl.com/vJ2fhARW#12v9tgbi0 		| www.fb.com/471268223205303
 |			|											|
@@ -78,3 +79,4 @@ www.brusheezy.com 	| www.accessurl.com/s/TsqgHBEiVHsKIALegotL | www.fb.com/50305
 www.pngtree.com 	| www.accessurl.com/s/1SpG3Mc3S7qrv4xaq_YG | www.fb.com/502160050116120
 Zing MP3 			| www.accessurl.com/s/ite2gEMt9O18T2MIUbdI | www.fb.com/534870996845025
 Zing TV 			| www.accessurl.com/s/uVnCXgsaqPokqCaS5IOI | www.fb.com/534870996845025
+vectormagic.com 	| www.accessurl.com/s/K3x_j9WEbzFc0UDtNFQp | www.fb.com/518340335164758
