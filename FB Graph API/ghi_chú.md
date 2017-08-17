@@ -22,10 +22,17 @@ lấy token các page mà mình quản lý
 
 Block user
 	https://graph.facebook.com/v2.8/me/blocked?uid={$uid}
-	https://graph.facebook.com/v2.9/4/blocked?uid='+uid+'&access_token='+token+'&method=post
+	https://graph.facebook.com/v2.9/4/blocked?uid={$uid}&access_token={$token}&method=post
 
 reactions a post
-	https://graph.facebook.com/v2.9/UID_IDPOST/reactions/?type=THANKFUL&method=post&access_token={$access_token}
+	https://graph.facebook.com/v2.9/UID_IDPOST/reactions/?type=THANKFUL&method=post&access_token={$access_token}&version=v2.8
+
+debug token
+	https://graph.facebook.com/debug_token?input_token={input-token}&access_token={access-token}
+	https://developers.facebook.com/tools/debug/accesstoken/?q={$token}
+chuyển tài khoản fb thành page
+	https://www.facebook.com/pages/merge/
+
 
 order(reverse_chronological) sắp xếp theo trình tự mới nhất
 hiển thị json
