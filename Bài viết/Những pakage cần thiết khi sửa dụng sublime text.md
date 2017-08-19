@@ -1,5 +1,8 @@
 # Những pakage cần thiết khi sử dụng sublime text 3
+<a href="html-css-js-Pretifi" title="">Html-css-js Pretifi</a>
 
+
+### Hỗ trợ gõ nhanh
 ## html5
 Giúp bạn gõ nhanh các thẻ html theo chuẩn html5
 
@@ -9,7 +12,7 @@ thay thế icon hình file đơn điệu thành các icon màu sắc tương ứ
 ## JavaScript & NodeJS Snippet
 Giúp gõ nhanh các cú pháp javascript, NodeJS mà không cần phải nhớ nhiều.
 
-## html-css-js Pretifi
+<h3 id="html-css-js-Pretifi">html-css-js Pretifi</h3>
 Bạn mất quá nhiều thời gian để format code javascript, css cho đẹp, html-css-js Pretifi sẽ giúp bạn làm việc này.
 
 htmlBeautify
