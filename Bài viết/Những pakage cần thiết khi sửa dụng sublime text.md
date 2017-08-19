@@ -1,5 +1,5 @@
 # Những pakage cần thiết khi sử dụng sublime text 3
-<a href="html-css-js-Pretifi" title="">Html-css-js Pretifi</a>
+<a href="#html-css-js-Pretifi" title="">Html-css-js Pretifi</a>
 
 
 ### Hỗ trợ gõ nhanh
