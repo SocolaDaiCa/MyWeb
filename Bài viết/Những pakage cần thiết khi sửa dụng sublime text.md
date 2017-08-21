@@ -2,40 +2,39 @@
 <a href="#html-css-js-Pretifi" title="">Html-css-js Pretifi</a>
 
 
-### Hỗ trợ gõ nhanh
-## html5
-Giúp bạn gõ nhanh các thẻ html theo chuẩn html5
+<h2>Hỗ trợ gõ nhanh</h2>
+<h3><a href="https://packagecontrol.io/packages/HTML5" title="">HTML5</a></h3>
+	Giúp bạn gõ nhanh các thẻ html theo chuẩn html5
+<h3>JavaScript & NodeJS Snippet</h3>
+	Giúp gõ nhanh các cú pháp javascript, NodeJS mà không cần phải nhớ nhiều.
+<h3>Bootstrap3 snippet</h3>
+	Gõ nhanh các cú pháp của bootstrap 3
+<h3>emmet</h3>
 
-## A file icon
-thay thế icon hình file đơn điệu thành các icon màu sắc tương ứng với định dạng file bạn đang làm việc, dễ nhìn, dễ nhận dạng file.
-
-## JavaScript & NodeJS Snippet
-Giúp gõ nhanh các cú pháp javascript, NodeJS mà không cần phải nhớ nhiều.
-
+<h2>Beautiful code</h2>
+<h3>htmlBeautify</h3>
+	Format code html.
 <h3 id="html-css-js-Pretifi">html-css-js Pretifi</h3>
-Bạn mất quá nhiều thời gian để format code javascript, css cho đẹp, html-css-js Pretifi sẽ giúp bạn làm việc này.
+	Format code js, css.
 
-htmlBeautify
-Format code html cho đúng chuẩn.
+<h2>Highlighter code</h2>
+<h3>bracketHighlighter</h3>
+	Làm nổi bật thẻ đóng mở
 
-## Auto file name
-Gõ nhanh các đường dẫn tới file đích.
-
-## Align tab
-Bạn có nhiều phép gán k thẳng hàng, Align tab sẽ lo việc đó.
-
-## LiveReload
-Bạn mệt mỏi khi code frontend vì mỗi lần code xong lại phải reload trình duyệt để xem thay đổi, với LiveReload mỗi lần save là trình duyệt tự động reload.
-
-## Bootstrap3 snippet
-Gõ nhanh các cú pháp của bootstrap 3
+<h2>Khác</h2>
+<h3>A file icon</h3>
+	thay thế icon hình file đơn điệu thành các icon màu sắc tương ứng với định dạng file bạn đang làm việc, dễ nhìn, dễ nhận dạng file.
+<h3>Auto file name</h3>
+	Gõ nhanh các đường dẫn tới file đích.
+<h3>Align tab</h3>
+	Bạn có nhiều phép gán k thẳng hàng, Align tab sẽ lo việc đó.
+<h3>LiveReload</h3>
+	Bạn mệt mỏi khi code frontend vì mỗi lần code xong lại phải reload trình duyệt để xem thay đổi, với LiveReload mỗi lần save là trình duyệt tự động reload.
 
 ## những cái dưới đây thì chưa biết
 Color picker
 Auto refesh
-bracketHighlighter
 Color Highlighter
-emmet
 JavaScript Completions
 Markdown Preview
 MarkdownLivePreview
