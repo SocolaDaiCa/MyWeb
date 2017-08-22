@@ -15,4 +15,8 @@
 		}
 	};
 	http.send(params);
-' title="">Get Token IOS</a>
+' title="">Get Token IOS</a><br>
+<a href='
+	javascript: access_token = /access_token:"(.+?)"/.exec(document.body.innerHTML)[1];
+	prompt("access_token", access_token);
+' title=""></a>
