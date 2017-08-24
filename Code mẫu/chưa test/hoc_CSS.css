@@ -1,0 +1,104 @@
+*{
+	text-align: justify; căn lề 2 bên
+	gạch
+	text-decoration: overline; 		gạch trên
+    text-decoration: line-through; 	gạch giữa
+    text-decoration: underline; 	gạch dưới
+	viết hoa
+    text-transform: uppercase; 	viết hoa tất cả các chữ
+    text-transform: lowercase; 	viết thường tất ả các chữ
+    text-transform: capitalize; viết hoa chữ dầu tiên các chữ
+
+    text-indent: 50px; 		thụt đầu dòng dòng đầu tiên
+    letter-spacing: 3px; 	khoảng cách giữa các chữ
+    word-spacing: 10px; 	khoảng cách giữa các từ
+    line-height: 0.8; 		chiều cao của các dòng
+    word-wrap: break-word; ngăng chữ k bị tràn theo chiều ngang
+    word-break: break-all | keep-all ;
+    white-space: nowrap; hiển thị toàn bộ text trên 1 dòng duy nhất
+    visibility: visible|hidden|collapse|initial|inherit; ẩn hiện đối tượng nhưng vẫn chiếm chỗ
+    bôi đen khi nhấn đúp vào chữ
+    user-select: auto; mặc đinh
+    user-select: none; k cho bôi
+    user-select: text; bôi từng từ
+    user-select: all; bôi cả câu
+
+
+
+
+	text-shadow: 3px 2px red; đổi bóng ngang 3px dọc 2px màu đỏ
+	Font chữ
+	font-family: 'Times New Roman', Times, serif;
+	kiểu chữ
+    font-style: normal;  bình thường
+    font-style: italic;	 nghiêng nét nhỏ
+    font-style: oblique; nghiêng
+    font-size: 10px; cỡ chữ
+    độ đâm của chữ
+    font-weight: normal; bình thường
+    font-weight: bold; đậm
+    ul li
+    list-style-type: circle; 		chấm tròn trắng
+    list-style-type: square;		chấm tròn đen
+    list-style-type: upper-roman;	số la mã
+    list-style-type: lower-alpha;	chữ cái
+    style
+    opacity: 0.5; độ mờ sương phủ lên ảnh từ 0 đến 100
+    background: transparent; màu trong suốt
+
+    z-index: -1; độ nổi của vật, theo từng tầng
+
+	transition-property: width; tạo hiệu ứng trượt theo chiều ngang
+    transition-duration: 2s;
+
+
+
+
+
+
+
+
+}
+div.ex1 { viết ngược từ phải qua trái từng kí tự
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+table{
+    border-collapse: collapse; chỉ hiện 1 nét của đường viền nếu có 2 đường viền
+    border: 1px solid black; chỉ viền khung của table
+}
+table, td, th {
+    border: 1px solid black;
+}
+.display{
+    visibility:hidden; ẩn vẫn chiếm chỗ
+    display: none; ẩn k chiếm chỗ
+}
+div p 	{background-color: yellow;	} áp dụng cho tất cả p trong div
+div > p {background-color: yellow;	} áp dụng cho tất cả p nằm ngay phía trong div
+div + p {background-color: yellow;	} áp dụng cho p đầu tiên ngay phía sau div
+div ~ p {background-color: yellow;	} áp dụng cho tất cả p phía sau div
+lớp ảo
+thứ tự các lớp ảo của thẻ a link phải đúng theo thứ tự này nếu k sẽ k chạy đc
+a:link 		{color: #FF0000;} css cho link
+a:visited 	{color: #00FF00;} css cho link đã đc click từ trước lần
+a:hover 	{color: #FF00FF;} css khi di chuột qua link
+a:active 	{color: #0000FF;} css cho link khi nhấn vào
+a.highlight:hover {color: #ff0000; } class .highlight chỉ áp dụng cho thẻ a ngoài ra k áp dụng cho thẻ nào hết
+p:first-child {color: blue;} chỉ áp dụng css cho thẻ p đầu tiên
+a[target] {} css cho tất cả các thẻ a có attr target
+a[target="_blank"]{} css cho tất cả các thẻ a có attr target="_blank"
+div[class~="value"]{} css cho các div có class dạng class="value jixn" class="value socola"
+div[class|="value"]{} css cho các div có class dạng class="valuejixn" class="valuesocola"
+div[class^="value"]{} css cho các div có class dạng class="value-jixn" class="value-socola"
+
+
+
+
+
+
+
+
+
+vertical-align xem sau
+transition-timing-function xem sau
