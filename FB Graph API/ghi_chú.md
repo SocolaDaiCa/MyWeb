@@ -5,6 +5,9 @@
 Action comment stt
 	https://graph.facebook.com/{$id}/comments?method=post&access_token=$token&message={$message}
 
+Action post status
+	https://graph.facebook.com/{$groupId}/feed?access_token={$token}&method=post&message={$message}
+
 Lấy avatar
 	https://graph.facebook.com/{$id}/picture?type=large&redirect=true&width=40&height=40
 

@@ -2,6 +2,7 @@
 <script src="https://unpkg.com/vue/dist/vue.js"></script>
 <!-- lấy dữ liệu -->
 <span v-bind:title="message"></span>
+<span :title="message"></span>
 <span>{{message}}</span>
 <!-- if true thì hiện false thì ẩn-->
 <p v-if="seen">Now you see me</p>
@@ -9,6 +10,7 @@
 <li v-for="todo in todos">{{ todo.text }}</li>
 <!-- add sự kiện -->
 <button v-on:click="sayHello">Reverse Message</button>
+<button @click="sayHello">Reverse Message</button>
 <!-- tương tác realtime giữa input và vue -->
 <p>{{ message }}</p>
 <input v-model="message">
