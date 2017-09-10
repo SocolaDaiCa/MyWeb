@@ -21,3 +21,52 @@ var MyComponent = Vue.extend({
 });
 var x = new MyComponent();
 </script>
+
+<!-- vòng lặp -->
+<div>
+  <span v-for="n in 10">{{ n }}</span>
+</div>
+
+<div v-for="(value, key) in object">
+  {{ key }} : {{ value }}
+</div>
+
+<div v-for="(value, key, index) in object">
+  {{ index }}. {{ key }} : {{ value }}
+</div>
+
+<my-component
+  v-for="(item, index) in items"	
+  v-bind:item="item"
+  v-bind:index="index">
+</my-component>
+
+<li v-for="todo in todos" v-if="!todo.isComplete">
+  {{ todo }}
+</li>
+<!-- sắp xếp theo id -->
+<div v-for="item in items" :key="item.id">
+  <!-- content -->
+</div>
+<script>
+/*thay đổi 1 phần tử trong mảng*/
+Vue.set(example1.items, indexOfItem, newValue);
+</script>
+<!-- bắt sự kiện -->
+<!-- click -->
+<button v-on:click="counter += 1">Add 1</button><!-- thay đổi giá trị của biến -->
+<button v-on:click="greet">Greet</button><!-- gọi hàm không đổi -->
+<button v-on:click="say('hi')">Say hi</button><!-- hàm có đối -->
+<!-- hành động khi kết thúc click -->
+<a v-on:click.stop="doThis">ádas</a>
+<!-- the submit event will no longer reload the page -->
+<form v-on:submit.prevent="onSubmit"></form>
+<!-- modifiers can be chained -->
+<a v-on:click.stop.prevent="doThat"></a>
+<!-- just the modifier -->
+<form v-on:submit.prevent></form>
+<!-- use capture mode when adding the event listener -->
+<div v-on:click.capture="doThis">...</div>
+<!-- only trigger handler if event.target is the element itself -->
+<!-- i.e. not from a child element -->
+<div v-on:click.self="doThat">...</div>
