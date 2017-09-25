@@ -70,3 +70,37 @@ Vue.set(example1.items, indexOfItem, newValue);
 <!-- only trigger handler if event.target is the element itself -->
 <!-- i.e. not from a child element -->
 <div v-on:click.self="doThat">...</div>
+
+<!-- form -->
+input text
+	<input v-model="message" placeholder="edit me">
+	<p>Message is: {{ message }}</p>
+check box
+	<input type="checkbox" id="checkbox" v-model="checked">
+	<label for="checkbox">{{ checked }}</label>
+multi chekbox
+	<input type="checkbox" id="jack" value="Jack" v-model="checkedNames">
+	<label for="jack">Jack</label>
+	<input type="checkbox" id="john" value="John" v-model="checkedNames">
+	<label for="john">John</label>
+	<input type="checkbox" id="mike" value="Mike" v-model="checkedNames">
+	<label for="mike">Mike</label>
+	<br>
+	<span>Checked names: {{ checkedNames }}</span>
+radio
+	<input type="radio" id="one" value="One" v-model="picked">
+	<label for="one">One</label>
+	<br>
+	<input type="radio" id="two" value="Two" v-model="picked">
+	<label for="two">Two</label>
+	<br>
+	<span>Picked: {{ picked }}</span>
+seclect box
+	<select v-model="selected">
+		<option>A</option>
+		<option>B</option>
+		<option>C</option>
+	</select>
+	<span>Selected: {{ selected }}</span>
+	thêm giá trị vào object
+<script>this.$set("listUsers['1']", {string: 'string 1', visible: true});</script>

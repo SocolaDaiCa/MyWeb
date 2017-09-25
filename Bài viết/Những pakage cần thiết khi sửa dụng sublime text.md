@@ -30,11 +30,14 @@
 	Bạn có nhiều phép gán k thẳng hàng, Align tab sẽ lo việc đó.
 <h3>LiveReload</h3>
 	Bạn mệt mỏi khi code frontend vì mỗi lần code xong lại phải reload trình duyệt để xem thay đổi, với LiveReload mỗi lần save là trình duyệt tự động reload.
-
+<h3><a href="https://packagecontrol.io/packages/FTPSync" title="">FTPSync</a></h3>
+	Upload code lên host nhanh chóng.
+	
 ## những cái dưới đây thì chưa biết
 Color picker
-Auto refesh
 Color Highlighter
+Auto refesh
+
 JavaScript Completions
 Markdown Preview
 MarkdownLivePreview

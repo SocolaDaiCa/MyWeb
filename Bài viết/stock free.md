@@ -1,13 +1,47 @@
-<a href="http://365psd.com/" title="">http://365psd.com</a><br>
-<a href="https://pixabay.com/">https://pixabay.com/</a><br>
+ádas <br>
+	http://365psd.com/" <br>
+	https://pixabay.com/ <br>
 <h3>Tạo logo free</h3>
-<a href="https://www.freelogodesign.org/index.html">https://www.freelogodesign.org/index.html</a>
-<a href="https://www.freelogoservices.com/step1">https://www.freelogoservices.com/step1</a>
-<a href="https://www.graphicsprings.com/start-your-logo">https://www.graphicsprings.com/start-your-logo</a>
-<a href="https://www.designmantic.com/logo-design">https://www.designmantic.com/logo-design</a>
-<a href="https://www.canva.com/create/logos/">https://www.canva.com/create/logos/</a>
-<a href="https://logojoy.com/">https://logojoy.com/</a>
-<a href="https://www.designimo.com/create-logo">https://www.designimo.com/create-logo</a>
-<a href="http://www.designhill.com/logo-design/">http://www.designhill.com/logo-design/</a>
-<a href="https://99designs.com/logo-design">https://99designs.com/logo-design</a>
-<a href="http://vi.photo-ac.com" title="">http://vi.photo-ac.com</a><br>
+	https://www.freelogodesign.org/index.html <br>
+	https://www.freelogoservices.com/step1 <br>
+	https://www.graphicsprings.com/start-your-logo</a> <br>
+	https://www.designmantic.com/logo-design <br>
+	https://www.canva.com/create/logos/ <br>
+	https://logojoy.com/ <br>
+	https://www.designimo.com/create-logo <br>
+	http://www.designhill.com/logo-design/ <br>
+	https://99designs.com/logo-design <br>
+<h3>Vector</h3>
+	http://vi.photo-ac.com<br>
+	https://vi.ac-illust.com/<br>
+	https://vi.silhouette-ac.com/<br>
+<h3>Stock</h3>
+	https://www.splitshire.com/<br>
+	http://nos.twnsnd.co/<br>
+	https://picjumbo.com/
+	http://www.lifeofpix.com/
+	https://www.gratisography.com/
+	http://publicdomainarchive.com/
+	http://imcreator.com/free 
+	http://cupcake.nilssonlee.se/
+	http://thepatternlibrary.com/
+	http://getrefe.com/downloads/category/free/
+	http://isorepublic.com/
+	http://stokpic.com/
+	http://kaboompics.com/
+	http://wefunction.com/category/free-photos/
+	https://www.sitebuilderreport.com/stock-up
+	https://pjrvs.com/a/photos/
+	https://mmtstock.com/
+	https://deathtothestockphoto.com/
+	https://unsplash.com/
+	http://travelcoffeebook.com/
+	http://moveast.me/
+	http://jaymantri.com/
+	http://startupstockphotos.com/
+	http://www.splashbase.co/
+	http://www.designerspics.com/
+	http://allthefreestock.com/
+	https://www.pexels.com/
+	https://www.foodiesfeed.com/
+	

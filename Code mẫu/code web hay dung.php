@@ -287,23 +287,7 @@ https://graph.facebook.com/1173636692750000/?fields=feed.since(1491120066).limit
 
 
 
-<script>
-typeof  trả về loại biến
-instanceof trả về true nếu biến là 1 đối tượng
-js
-String.prototype.distance = function (){ 
-    //your code 
-}
-Object.keys(obj).length; số phần tử trong object
-obj[Object.keys(obj)[0]]; lấy method thứ 0 của obj
-console.log(document.URL); lấy url trang hiện tại
-fruits.join('zz'); nối mảng thành chuỗi
-console.log(JSON.stringify(res)); // json to string
-jQuery
-$.ajaxSetup({headers : {'Authorization' : 'Client-ID ee592b9f56e7a64'}});
-$.ajaxSetup( { "async": false } ); đồng bộ
-$.ajaxSetup( { "async": true } ); bất đồng bộ
-$.getJSON();
+
 select.replaceWith(res); thay thể
 jQuery.unique(arr); loại bỏ phần tử trùng trong mảng
 $("html, body").animate({ scrollTop: $(document).height() }, 0); // scroll bot
@@ -317,7 +301,8 @@ html
 
 <?php 
 header
-header('Content-Type: text/html; charset=utf-8')
+header('Content-Type: text/html; charset=utf-8');
+header('Content-Type: application/json');
 ép download toàn bộ nội dung dưới thẻ này và đóng thành file có dạng file_name.dinh_dang
 header("Content-type: application/force-download");
 header('Content-Disposition: attachment; filename="file_name.dinh_dang"');
@@ -374,6 +359,9 @@ echo "Ban đầu: ".memory_get_usage()." bytes \n";
 echo "Cuối cùng : ".memory_get_usage()." bytes \n";
 echo "Cao nhất: ".memory_get_peak_usage()." bytes \n";
 
+JSON
+echo json_encode($data, JSON_PRETTY_PRINT);
+json_encode($array, JSON_UNESCAPED_UNICODE);
 
 cURL 
 $ch = curl_init(); khởi một CURL
@@ -389,6 +377,7 @@ mysqli_set_charset($con,"utf8");// Change character set to utf8
 
 
 metadata=1
+
 
 
 

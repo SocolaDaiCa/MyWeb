@@ -1,0 +1,4 @@
+
+Giờ đây, mọi người sẽ dễ dàng tìm thấy Trang của bạn hơn trong tìm kiếm. Mọi người cũng có thể truy cập Trang của bạn tại fb.me/SocolaWorld và gửi tin nhắn cho Trang tại m.me/SocolaWorld.
+
+localStorage.setItem(this.id, JSON.stringify(entry));

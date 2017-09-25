@@ -9,22 +9,14 @@
 		<script src="//code.jquery.com/jquery.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 	</head>
-	<body>
+	<body id="app">
 		<div class="container">
-			<div id="app-2">
-				<span v-bind:title="message">
-					Hover your mouse over me for a few seconds to see my dynamically bound title!
-				</span>
-				<p v-if="seen">Now you see me</p>
-				<ul>
-					<li v-for="todo in todos">{{ todo }}</li>
-				</ul>
-				<button v-on:click="sayHello">Reverse Message</button>
-				<p>{{ message }}</p>
-				<input v-model="message">
-			</div>
+			<div v-for="(value, key) in object">
+  				{{ key }} : {{ value }}
+</div>
 		</div>
 	</body>
 </html>
-<script src="https://unpkg.com/vue/dist/vue.js"></script>
+<script src="vue.min.js"></script>
+<!-- <script src="https://unpkg.com/vue/dist/vue.js"></script> -->
 <script src="./demo.js"></script>

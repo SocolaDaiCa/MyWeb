@@ -238,4 +238,20 @@ document.addEventListener("click", someOtherFunction);
 document.addEventListener("mouseout", someOtherFunction);
 console.log(document.cookie);
 locale=vi_VN; c_user=100006907028797; act=1498272213712%2F5; wd=1366x329; presence=EDvF3EtimeF1498272222EuserFA21B06907028797A2EstateFDutF1498272222700CEchFDp_5f1B06907028797F4CC
-document.cookie = ""
+document.cookie = "";
+
+// typeof  trả về loại biến
+// instanceof trả về true nếu biến là 1 đối tượng
+String.prototype.distance = function (){ 
+    //your code 
+}
+Object.keys(obj).length; //số phần tử trong object
+obj[Object.keys(obj)[0]]; //lấy method thứ 0 của obj
+console.log(document.URL); //lấy url trang hiện tại
+fruits.join('zz');// nối mảng thành chuỗi
+console.log(JSON.stringify(res)); // json to string
+jQuery
+$.ajaxSetup({headers : {'Authorization' : 'Client-ID ee592b9f56e7a64'}});
+$.ajaxSetup( { "async": false } ); đồng bộ
+$.ajaxSetup( { "async": true } ); bất đồng bộ
+$.getJSON();
