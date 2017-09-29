@@ -15,6 +15,7 @@
 	http://vi.photo-ac.com<br>
 	https://vi.ac-illust.com/<br>
 	https://vi.silhouette-ac.com/<br>
+	http://graphicex.com/ <br>
 <h3>Stock</h3>
 	https://www.splitshire.com/<br>
 	http://nos.twnsnd.co/<br>
@@ -44,4 +45,11 @@
 	http://allthefreestock.com/
 	https://www.pexels.com/
 	https://www.foodiesfeed.com/
-	
+	http://all-free-download.com/
+	http://www.freepik.com/
+	http://sucaitianxia.com/
+	http://foter.com/
+	http://www.freeimages.com/
+	http://thestocks.im/
+	https://burst.shopify.com/free-images
+	https://stocksnap.io/
