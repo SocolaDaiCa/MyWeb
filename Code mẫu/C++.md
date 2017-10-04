@@ -1,0 +1,1 @@
+while(scanf("%[^0-9]s",S[++n].HT)!=EOF)

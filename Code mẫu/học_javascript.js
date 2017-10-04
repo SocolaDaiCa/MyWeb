@@ -1,40 +1,24 @@
-/*string*/
-str.indexOf("locate"); /*vị trí xuất hiện đầu*/
-str.indexOf("locate",15);/*vị trí xuất hiện đầu tiên xét từ kí tự vị trí 15*/
-str.lastIndexOf("locate"); /* vị trí xuất hiện cuối*/
-/*trả về -2 nếu k tồn tại*/
-str.slice(7, 13); /* cắt từ 7 đến 13*/
-str.slice(5); /*cắt đến cuối*/
-
-
-console.time('myTime'); //Starts the timer with label - myTime
-console.timeEnd('myTime'); //Ends the timer with Label - myTime
-//Output: myTime:123.00 ms
-
-console.table(variableName); /*hiển thị biến dưới dạng bảng*/
-/*10. Clear the Console and the Memory*/
-clear(); /*hoặc Ctrl+L nếu bạn lười gõ =))*/
 
 /*Operator*/
-delete person.age;// or delete person["age"]; xóa age khỏ person
+
 type = typeof a; /*trả về kiểu dữ liệu của x*/
 for (var x in person) {
-    text += person[x] + " ";
+	text += person[x] + " ";
 }
 try { 
-    if(x === "")  throw "is Empty";
-    if(isNaN(x)) throw "not a number";
-    if(x > 10)   throw "too high";
-    if(x < 5)    throw "too low";
+	if(x === "")  throw "is Empty";
+	if(isNaN(x)) throw "not a number";
+	if(x > 10)   throw "too high";
+	if(x < 5)    throw "too low";
 }
 catch(err) {
-    message.innerHTML = "Input " + err;
+	message.innerHTML = "Input " + err;
 }
 try {
-    adddlert("Welcome guest!");
+	adddlert("Welcome guest!");
 }
 catch(err) {
-    document.getElementById("demo").innerHTML = err.message;
+	document.getElementById("demo").innerHTML = err.message;
 }
 finally{
 
@@ -49,7 +33,7 @@ arr3 = arr1.concat(arr2); /* nối mảng 1 với mảng 2 lưa vào mảng 3*/
 
 var ages = [32, 33, 16, 40];
 function checkAdult(age) {
-    return age >= 18;
+	return age >= 18;
 }
 bool = ages.every(checkAdult); 	/*trả về true nết tất cả ptử của mảng đều thỏa mãn funtion*/
 arr = ages.filter(checkAdult); 	/*lọc ra các phần tử thỏa mãn*/
@@ -121,7 +105,7 @@ x = Number.NEGATIVE_INFINITY; /*âm vô cừng*/
 x = Number.POSITIVE_INFINITY; /*dương vô cùng*/
 x = Number.NaN; /*not a number*/
 Number.prototype.myMethod = function() {
-    return this.valueOf() / 2;
+	return this.valueOf() / 2;
 }; /* định nghĩa hàm cho số*/
 Number.isFinite(123); //true có hạn
 Number.isFinite(Infinity); //false vô hạn
@@ -231,7 +215,7 @@ window.history.go(-2);
 /*HTML DOM*/
 /*bắt sự kiện click*/
 document.addEventListener("click", function(){
-    document.getElementById("demo").innerHTML = "Hello World!";
+	document.getElementById("demo").innerHTML = "Hello World!";
 });
 document.addEventListener("mouseover", myFunction);
 document.addEventListener("click", someOtherFunction);
@@ -239,19 +223,38 @@ document.addEventListener("mouseout", someOtherFunction);
 console.log(document.cookie);
 locale=vi_VN; c_user=100006907028797; act=1498272213712%2F5; wd=1366x329; presence=EDvF3EtimeF1498272222EuserFA21B06907028797A2EstateFDutF1498272222700CEchFDp_5f1B06907028797F4CC
 document.cookie = "";
-
 // typeof  trả về loại biến
 // instanceof trả về true nếu biến là 1 đối tượng
-String.prototype.distance = function (){ 
-    //your code 
-}
-Object.keys(obj).length; //số phần tử trong object
-obj[Object.keys(obj)[0]]; //lấy method thứ 0 của obj
-console.log(document.URL); //lấy url trang hiện tại
-fruits.join('zz');// nối mảng thành chuỗi
-console.log(JSON.stringify(res)); // json to string
-jQuery
-$.ajaxSetup({headers : {'Authorization' : 'Client-ID ee592b9f56e7a64'}});
-$.ajaxSetup( { "async": false } ); đồng bộ
-$.ajaxSetup( { "async": true } ); bất đồng bộ
-$.getJSON();
+
+
+// viết lại từ đây
+window.onload = function(){} // document.ready
+/*Ajact*/
+	$.ajaxSetup({headers : {'Authorization' : 'Client-ID ee592b9f56e7a64'}});
+	$.ajaxSetup( { "async": false } ); /*đồng bộ*/
+	$.ajaxSetup( { "async": true } ); /*bất đồng bộ*/
+/*JSON*/
+	console.log(JSON.stringify(res)); /*json to string*/
+	$.getJSON(url, param, function calback() {});
+/*Object*/
+	Object.keys(obj).length; //số phần tử trong object
+	obj[Object.keys(obj)[0]]; //lấy method thứ 0 của obj
+	console.log(document.URL); //lấy url trang hiện tại
+	delete person.age; /*or delete person["age"]; xóa age khỏ person*/
+/*Array*/
+	fruits.join('zz');// nối mảng thành chuỗi
+/*string*/
+	str.indexOf("locate"); /*vị trí xuất hiện đầu*/
+	str.indexOf("locate",15);/*vị trí xuất hiện đầu tiên xét từ kí tự vị trí 15*/
+	str.lastIndexOf("locate"); /* vị trí xuất hiện cuối*/
+	/*trả về -2 nếu k tồn tại*/
+	str.slice(7, 13); /* cắt từ 7 đến 13*/
+	str.slice(5); /*cắt đến cuối*/
+/*Other*/
+	String.prototype.distance = function (){};
+	console.time('myTime'); //Starts the timer with label - myTime
+	console.timeEnd('myTime'); //Ends the timer with Label - myTime
+	//Output: myTime:123.00 ms
+	console.table(variableName); /*hiển thị biến dưới dạng bảng*/
+	/*10. Clear the Console and the Memory*/
+	clear(); /*hoặc Ctrl+L nếu bạn lười gõ =))*/
