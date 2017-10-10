@@ -258,3 +258,40 @@ window.onload = function(){} // document.ready
 	console.table(variableName); /*hiển thị biến dưới dạng bảng*/
 	/*10. Clear the Console and the Memory*/
 	clear(); /*hoặc Ctrl+L nếu bạn lười gõ =))*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// linh tinh
+
+var user = prompt("Please enter your name");
+alert(user);
+
+var result = confirm("Do you really want to leave this page?");
+if (result == true) {
+  alert("Thanks for visiting");
+}
+else {
+  alert("Thanks for staying with us");
+}
+
+$read = file('names.txt');
+foreach ($read as $line) {
+  echo $line .", ";
+}
+//chữ nhỏ và xấu mù
+p.small {
+    font-variant: small-caps;
+}

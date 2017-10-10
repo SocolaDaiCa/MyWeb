@@ -134,3 +134,10 @@ setTimeout("function(){gamemod=0}", 300);
 
 Vào link : https://www.facebook.com/username/following
 Chú Ý : : thay username thành id hoặc username của bạn.
+
+
+viết 1 stt màu xanh
+- @@_[0:[0:1:Nội dung stt hoặc cmt]] ( chỉ hiện ở chế độ m.facebook.com hoặc mbasic.facebook.com nhé )
+- Stt xanh dẫn về wall bất kỳ (thích hợp cho dẫn link fan page)
+- @@_[0:[ID:1:Nộidung stt hoặc cmt ]] _@_[ID:]
+❇ Bỏ dấu “_” sau @ nhé !!

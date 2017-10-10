@@ -23,8 +23,10 @@ s
 	https://www.udemy.com/ios-developer-course/?couponCode=LEARNIOSFREE <br>
 	https://www.udemy.com/canva-course-graphics-design/?couponCode=FREEBBTSITE <br>
 	https://www.udemy.com/30-days-of-python/?couponCode=CFEOCT2016 <br>
+	https://www.udemy.com/password-hacking/?couponCode=april4 <br>
+	https://www.udemy.com/how-to-start-a-blog-challenge/?couponCode=STARTBLOG1 <br>
 
-
+	
 http://tutsplus.github.io/syntax-highlighter-demos/prism_okaidia.html
 https://github.com/pages-themes
 https://www.facebook.com/groups/j2team.community/permalink/488511274814331/

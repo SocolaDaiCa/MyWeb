@@ -3,7 +3,7 @@
 
 <h2>Get</h2>
 <h3>Get avatar</h3>
-https://graph.facebook.com/{$id}/picture?type=large&redirect=true&width=40&height=40
+	https://graph.facebook.com/{$id}/picture?type=large&redirect=true&width=40&height=40
 <h3>check avatar mặc định nếu is_silhouette == TRUE thì đó là AVATAR MẶC ĐỊNH</h3>
 https://graph.facebook.com/100003297565758/picture?redirect=false
 <h3>Kiểm tra thời gian tồn tại của token</h3>
