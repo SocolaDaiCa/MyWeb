@@ -1,2 +1,0 @@
-<h1>Một số khóa học Udemy free</h1>
-<a href="https://www.udemy.com/video-editing-premiere-pro-after-effects-dynamic-linking/?couponCode=DISCOUNTGLOBAL.COM" title="">https://www.udemy.com/video-editing-premiere-pro-after-effects-dynamic-linking/?couponCode=DISCOUNTGLOBAL.COM</a><br>

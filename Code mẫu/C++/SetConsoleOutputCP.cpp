@@ -1,0 +1,1 @@
+SetConsoleOutputCP(65001);

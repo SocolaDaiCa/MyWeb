@@ -112,7 +112,7 @@ $("#div1").load("demo_test.txt", function(responseTxt, statusTxt, xhr){
     if(statusTxt == "error")
         alert("Error: " + xhr.status + ": " + xhr.statusText);
 });
-
+$("#form").unbind( "submit" );
 /*noConflict xem sau*/
 
 
