@@ -1,0 +1,15 @@
+- Danh sách các ứng dụng kết nối với gmail
+	- https://myaccount.google.com/permissions?pli=1
+-	Thư viện
+	-	JS
+		-	http://icheck.fronteed.com
+		-	http://blueimp.github.io/jQuery-File-Upload/index.html
+		-	https://jqueryvalidation.org
+-	online tool
+	-	Image to text
+		-	https://www.onlineocr.net
+-	Bài viết hay  ins
+	-	https://kipalog.com/posts/Ten-mien---con-to-rim-ta-dau-qua-man
+-	Other
+	-	https://creative.adobe.com/products/download/creative-cloud?promoid=KSPDX
+	-	https://tocdo.net Đo tốc độ VPS

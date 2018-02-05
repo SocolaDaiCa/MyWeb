@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title></title>
+		<link rel="stylesheet" href="">
+		<style>
+		* {
+    box-sizing: border-box;
+}
+/*			[class*="col-"] {
+		float: left;
+		padding: 15px;
+		border: 1px solid red;
+		}*/
+		.col-1 {width: 8.33%;}
+		.col-2 {width: 16.66%;}
+		.col-3 {
+			float: left;
+			width: 25%;
+			padding: 15px;
+		}
+		.col-4 {width: 33.33%;}
+		.col-5 {width: 41.66%;}
+		.col-6 {width: 50%;}
+		.col-7 {
+			float: left;
+			width: 58.33%;
+		}
+		.col-8 {width: 66.66%;}
+		.col-9 {width: 75%;}
+		.col-10 {width: 83.33%;}
+		.col-11 {width: 91.66%;}
+		.col-12 {width: 100%;}
+		</style>
+	</head>
+	<body>
+		<div class="row">
+			<div class="col-3"></div>
+			<div class="col-7">...</div>
+		</div>
+	</body>
+</html>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Học Vue Js</title>
+		<!-- Latest compiled and minified CSS & JS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+		<script src="//code.jquery.com/jquery.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+	</head>
+	<body>
+		<div id="app">
+			{{mesage}} hiểm thị giá trị của 1 biến
+			<span v-bind:title="message"> một cách khác để hiển thị</span>
+			<a :href="url"> ... </a> rút gọn
+			<span v-once>Thông điệp này sẽ không bao giờ thay đổi: {{ msg }}</span>
+			<p>Sử dụng directive v-html: <span v-html="rawHtml"></span></p>
+			<span v-if="seen">Thoắt ẩn thoắt hiện Câu lệnh điều kiện</span>
+			Vòng lặp
+			<ol>
+				<li v-for="todo in todos">
+					{{ todo.text }}
+				</li>
+			</ol>
+			Add sự kiện
+			<button v-on:click="reverseMessage">Reverse Message</button>
+			<a @click="doSomething"> ... </a> rút ghọn
+			<input v-model="message"> Tương tác 2 chiều với dữ liệu
+			
+		</div>
+	</body>
+</html>
+<ol>
+  <!-- Tạo một đối tượng của component todo-item -->
+  <todo-item></todo-item>
+</ol>
+<script>
+	// Định nghĩa một component todo-item
+Vue.component('todo-item', {
+  // Ở đây chúng ta khai báo cho component todo-item 
+  // nhận một "prop" (có thể hiểu là một thuộc tính tùy biến) 
+  // có tên là "todo".
+  props: ['todo'],
+  template: '<li>{{ todo.text }}</li>'
+})
+</script>

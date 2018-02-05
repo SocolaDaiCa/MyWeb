@@ -1,10 +1,21 @@
+'use strict';
+[a, b] = [b, a]; /* swap */
+/* duyệt propertie trong Object*/
+for (var x in person) {
+	console.log(person[x]);
+}
+console.log(typeof a); /*trả về kiểu dữ liệu của x*/
 
 /*Operator*/
+/* mảng */
+	console.log(arr.length); /* độ dài*/
+	arr3 = arr1.concat(arr2); /* nối mảng 1 với mảng 2 lưa vào mảng 3*/	
+/* copy arr object */
+	const obj = { ...oldObj };
+	const arr = [ ...oldArr ];
 
-type = typeof a; /*trả về kiểu dữ liệu của x*/
-for (var x in person) {
-	text += person[x] + " ";
-}
+
+/* fix đến đây*/
 try { 
 	if(x === "")  throw "is Empty";
 	if(isNaN(x)) throw "not a number";
@@ -28,8 +39,7 @@ finally{
 
 /*Date xem sau*/
 
-var length = arr.length; /* trả về độ dài của mảng*/
-arr3 = arr1.concat(arr2); /* nối mảng 1 với mảng 2 lưa vào mảng 3*/
+
 
 var ages = [32, 33, 16, 40];
 function checkAdult(age) {
@@ -99,7 +109,7 @@ str.strike(); /*gạch ngang*/
 
 
 /*só*/
-x = Number.MIN_VALUE; /*max*/
+x = Number.MAX_VALUE; /*max*/
 x = Number.MIN_VALUE; /*min*/
 x = Number.NEGATIVE_INFINITY; /*âm vô cừng*/
 x = Number.POSITIVE_INFINITY; /*dương vô cùng*/
@@ -295,3 +305,4 @@ foreach ($read as $line) {
 p.small {
     font-variant: small-caps;
 }
+domain.splice(2,1);// Xóa bắt đầu từ phần tử thứ 2 với chiều dài là 1 phần tử

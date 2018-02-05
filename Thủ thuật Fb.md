@@ -1,5 +1,11 @@
 # Thủ thuật Facebook
 
+## Contact
+https://www.facebook.com/help/contact/1417759018475333 Đổi tên <br>
+
+
+
+
 ## bình luận trắng
 alt + 0173
 
@@ -15,7 +21,7 @@ for(var i=0; i < x.length; i++)
 ```
 
 ## Mời bại bè thích trang
-copy đoạn code này, vào trang fanpage , chọn mời bạn bè thích trang này sau đó ấn F12 , chọn qua chỗ Console 
+copy đoạn code này, vào trang fanpage , chọn mời bạn bè thích trang này sau đó ấn F12 , chọn qua chỗ Console
 dán code vào khung trống có dấu > màu xanh bên trái , r ấn enter
 ```
 javascript:var inputs = document.getElementsByClassName('uiButton _1sm');
@@ -24,20 +30,20 @@ for(var i=0; i < inputs.length; i++)
 ```
 
 I.	Code Auto Tham Gia Nhóm ( Clear )
-Code có 1 đoạn nên mk up ở đây luôn  
+Code có 1 đoạn nên mk up ở đây luôn
 Bước 1 : Tìm kiếm nhóm theo tên :
 VD : ở đây mình đang tìm nhóm có tên là " thủ thuật " trên fb, vì thế, nhóm nào tên có chữ "Thủ thuật" thì sẽ hiện ra. Bạn nên kéo xuống dưới cùng, vì càng nhiều nhóm hiển thị thì bạn sẽ tham gia được bấy nhiêu nhóm.
 http://on.fb.me/1qn75q7
 Bước 2: Bạn nhấn F12, chọn thẻ "Console" paste code vào và enter và đợi  )
-Code này mình đã test và ko thấy bị block. Bạn nào bị block khi chạy code thì ib vs mình để tháo code xuống  
+Code này mình đã test và ko thấy bị block. Bạn nào bị block khi chạy code thì ib vs mình để tháo code xuống
 
 
 Link Code: http://pastebin.com/raw.php?i=1yBfHXPy
 II. Code unfriend
-Code này chỉ việc copy và chạy thôi. F12 và chạy   khôq có lựa chọn đâu nhé  
+Code này chỉ việc copy và chạy thôi. F12 và chạy   khôq có lựa chọn đâu nhé
 Link : http://pastebin.com/raw.php?i=GeUwtgSU
 
-III. Code Auto Tag Thành Viên Group 
+III. Code Auto Tag Thành Viên Group
 Code này là code tag thành viên group, f12 mà chạy.
 Link code: http://pastebin.com/raw.php?i=xEDKF18i
 
@@ -49,28 +55,28 @@ Link code: http://pastebin.com/raw.php?i=xEDKF18i
 
 IV. Code Auto Post Wall Friend Fb (Clear)
 Đây là code tự động đăng bài lên tất cả wall của bạn bè
-Lưu ý: Khi sử dụng cần có điều độ, cẩn thận ăn gạch đá từ friend  
+Lưu ý: Khi sử dụng cần có điều độ, cẩn thận ăn gạch đá từ friend
 Code 1: http://pastebin.com/raw.php?i=L8WeAANC
 Code 2: http://pastebin.com/raw.php?i=nTCUzBWD
 Firefox
 1.Copy code ở trên
 2.Vào https://www.facebook.com/  Nhấn CTRL + SHIFT + K Sau đó paste code vào, đợi tí cho xuất hiện bảng, điền nội dung sau đó nhấn Post
-3. Đợi  
+3. Đợi
 Google chrome
 1.Copy code ở trên
 2.Vào https://www.facebook.com/  Nhấn CTRL + SHIFT + J Sau đó paste code vào, đợi tí cho xuất hiện bảng, điền nội dung sau đó nhấn Post
-3. Đợi  
+3. Đợi
 V. Code thêm tất cả bạn bè vào group
 >>Đi đến Group bạn muốn add friend<<
 link code: http://pastebin.com/raw.php?i=qwcVne2j
 Firefox
 1.Copy code ở trên
 2.Vào Group mà bạn muốn thêm  Nhấn CTRL + SHIFT + K Sau đó paste code vào, đợi tí cho xuất hiện bảng thì chương trình hoạt động thành công
-3. Đợi  
+3. Đợi
 Google chrome
 1.Copy code ở trên
 2.Vào https://www.facebook.com/  Nhấn CTRL + SHIFT + J Sau đó paste code vào, đợi tí cho xuất hiện bảng thì chương trình hoạt động thành công
-3. Đợi  
+3. Đợi
 
 VI. Code tự động post bài trên tất cả Group với 1 click
 Tự động post bài trên group chỉ với 1 click:
@@ -78,11 +84,11 @@ Link code: http://pastebin.com/raw.php?i=GRULrJpC
 Firefox
 1.Copy code ở trên
 2.Vào https://www.facebook.com/  Nhấn CTRL + SHIFT + K Sau đó paste code vào, đợi tí cho xuất hiện bảng, điền nội dung sau đó nhấn Post
-3. Đợi  
+3. Đợi
 Google chrome
 1.Copy code ở trên
 2.Vào https://www.facebook.com/  Nhấn CTRL + SHIFT + J Sau đó paste code vào, đợi tí cho xuất hiện bảng, điền nội dung sau đó nhấn Post
-3. Đợi  
+3. Đợi
 
 VII. Code tag tất cả bạn bè stt, ảnh ...
 Hướng dẫn Tag tất cả bạn bè vào comment hình ảnh, bài viết trên facebook
@@ -93,7 +99,7 @@ Hướng dẫn Tag tất cả bạn bè vào comment hình ảnh, bài viết tr
 Code tag có thêm nội dung : http://pastebin.com/raw.php?i=7vWyC5Mu
 Vào đây để copy code (Ctrl + A => Ctrl + C ) hoặc copy code bên dưới
 Link code: http://pastebin.com/raw.php?i=X41vdgbh
-Sử dụng code bừa bãi là mất Fr ráng chịu nha, ad ko chịu trách nhiệm  
+Sử dụng code bừa bãi là mất Fr ráng chịu nha, ad ko chịu trách nhiệm
 VIII. Code Tự động mời bạn bè Like page (Clear)
 Hôm nay, mình sẽ hướng dẫn các bạn mời bạn bè Like page
 Trước đây khi mời bạn bè like Fanpage facebook thì vẫn còn ô để bạn tích và khi đó phần mềm - công cụ của trình duyệt đó là Facebook Select All rất hữu ích, bạn chỉ cần bấm vào công cụ đó là nó tích tất các bạn bè mà chưa được mời là xong, nhưng sau này Facebook đã thay thành nút mời vậy là bạn không thể sử dụng phần mềm đó được nữa.

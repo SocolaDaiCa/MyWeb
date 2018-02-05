@@ -374,11 +374,16 @@ SQL
 mysqli_set_charset($con,"utf8");// Change character set to utf8
 ?>
 
-
-
 metadata=1
 
 
 
 
-
+<?php
+highlight_string ('<h1>ass</h1>'); hightlight code
+str_word_count($string); đến từ
+levenshtein(str1, str2); đến số điểm khác nhau
+get_defined_vars(); danh sách các biến cục bộ và biến trong hàm
+escapeshellcmd($string); loại bỏ các kí tự có hại cho hệ thống
+checkdate($d, $m, $y); kiểm tra ngày hợp lệ
+?>

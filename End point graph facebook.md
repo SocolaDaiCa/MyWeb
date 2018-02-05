@@ -1,28 +1,26 @@
 <h1>End point graph Facebook</h1>
 
 <h2>Get</h2>
-<h3>Get avatar</h3>
-https://graph.facebook.com/{$id}/picture?type=large&redirect=true&width=40&height=40
-<h3>check avatar mặc định nếu is_silhouette == TRUE thì đó là AVATAR MẶC ĐỊNH</h3>
-https://graph.facebook.com/100003297565758/picture?redirect=false
-<h3>Kiểm tra thời gian tồn tại của token</h3>
-https://graph.facebook.com/oauth/access_token_info?client_id={$client_id}&access_token={$access_token}
-<h3>Kiểm tra quyền của token</h3>
-https://graph.facebook.com/me/permissions?access_token={$token}
+<h3>Get </h3>
+
+<h3></h3>
+
+<h3></h3>
+
 <hr>
 
 <h2>Post</h2>
-<h3>Comment status</h3>
-https://graph.facebook.com/{$id}/comments?method=post&access_token=$token&message={$message}
+<h3></h3>
+
 <h3>Post status</h3>
-https://graph.facebook.com/{$groupId}/feed?access_token={$token}&method=post&message={$message}
-<h3>Lấy token các page mà mình quản lý</h3>
-https://graph.facebook.com/me/accounts?access_token={$tọken}
-<h3>Reactions a post (LIKE, LOVE, WOW, HAHA, SAD, ANGRY, THANKFUL)</h3>
-https://graph.facebook.com/v2.9/UID_IDPOST/reactions/?type=THANKFUL&method=post&access_token={$access_token}&version=v2.8
+
+<h3></h3>
+
+<h3></h3>
+
 <h2>Delete</h2>
-<h3>Delete a post</h3>
-https://graph.facebook.com/v2.9/{$postId}?method=delete&access_token={$access_token}
+<h3></h3>
+
 <pre>
 <a href="http://stackoverflow.com/questions/17755753/how-to-get-likes-count-when-searching-facebook-graph-api-with-search-xxx" target="_blank">Like count, comments count</a>
 	https://graph.facebook.com/{id}/feed?fields=comments.limit(1).summary(true),likes.limit(1).summary(true)

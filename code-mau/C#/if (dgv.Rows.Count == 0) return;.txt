@@ -1,0 +1,19 @@
+      if (dgv.Rows.Count == 0) return;
+            Excel.Application exApp = new Excel.Application();
+            Excel.Workbook exBook = exApp.Workbooks.Add(Excel.XlWBATemplate.xlWBATWorksheet);
+            Excel.Worksheet exSheet = (Excel.Worksheet)exBook.Worksheets[1];
+            Excel.Range cell;
+            createCell(ref exSheet, 1, 1, 12, false, Color.Black, "Hóa Đơn Bán Hàng");
+
+            SaveFileDialog dlgSave = new SaveFileDialog();
+            exSheet.Name = "Hang";
+            exBook.Activate(); //Kích hoạt file Excel
+                               //Thiết lập các thuộc tính của SaveFileDialog
+            dlgSave.Filter = @"Excel Document(*.xls)|*.xls |Word Document(*.doc)
+                                             | *.doc | All files(*.*) | *.* ";
+            dlgSave.FilterIndex = 1;
+            dlgSave.AddExtension = true;
+            dlgSave.DefaultExt = ".xls";
+            if (dlgSave.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+                exBook.SaveAs(dlgSave.FileName.ToString());//Lưu file Excel
+            exApp.Quit();
