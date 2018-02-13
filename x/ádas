@@ -1,0 +1,165 @@
+http://nazuka.net/
+https://www.wpfastest.com/member/cart.php?a=checkout
+https://profreehost.com/login/
+http://danhbahosting.com/free-hosting/
+http://www.ultimatefreehost.in/
+https://supercloud.vn/web-hosting.html
+www.thefreecpanel.com
+www.freesubdomain.org
+www.ago.vn
+www.gocloudwebhosting.com
+https://www.wpfastest.com/member/cart.php?gid=5
+https://www.biz.nf/web-hosting.php
+https://app.treudler.net/cart.php?a=add&pid=48
+https://brohosting.eu/billing/cart.php
+https://khachhang.znvietnam.com/cart.php?a=add&pid=6#6403x23333r2t2a47433x2b4x28403u2
+www.ultimatefreehost.in/index.html
+www.viewen.com/free-hosting/cart.php
+www.atspace.com
+www.000webhost.com
+www.vvui.ga/cart.php
+www.ago.vn
+
+Tàm tạm
+https://www.000webhost.com
+Sida
+https://infinityfree.net
+http://www.serversfree.com
+https://keyweb.vn/hosting-mien-phi/
+Đứt
+https://unlimitedwebsitehosting.co.uk/cart.php?gid=1
+http://nazuka.net/
+https://www.wpfastest.com/member/cart.php?a=checkout
+https://profreehost.com/login/
+http://danhbahosting.com/free-hosting/
+http://www.ultimatefreehost.in/
+https://supercloud.vn/web-hosting.html
+www.thefreecpanel.com
+www.freesubdomain.org
+www.ago.vn
+www.gocloudwebhosting.com
+https://www.wpfastest.com/member/cart.php?gid=5
+https://www.biz.nf/web-hosting.php
+https://app.treudler.net/cart.php?a=add&pid=48
+https://brohosting.eu/billing/cart.php
+https://khachhang.znvietnam.com/cart.php?a=add&pid=6#6403x23333r2t2a47433x2b4x28403u2
+www.ultimatefreehost.in/index.html
+www.viewen.com/free-hosting/cart.php
+www.atspace.com
+www.000webhost.com
+www.vvui.ga/cart.php
+www.ago.vn
+
+Tàm tạm
+https://www.000webhost.com
+Sida
+https://infinityfree.net
+http://www.serversfree.com
+https://keyweb.vn/hosting-mien-phi/
+Đứt
+https://unlimitedwebsitehosting.co.uk/cart.php?gid=1
+ Các bạn mở cửa sổ lệnh nâng cao CMD hoặc PowerShell với tài khoản Admin và gõ (copy/paste) vào dòng lệnh sau: netsh wlan show profiles 2.Chúng ta muốn thay đổi thứ tự này thì nhập lệnh sau đây:
+netsh wlan set profileorder name = “AsUs” interface = “Wi-Fi” priority = 1
+3. Bây giờ bạn có thể mở Networks và sẽ thấy rằng kết nối được thiết lập quyền ưu tiên đã lên vị trí đầu tiên.
+post_title : Hướng dẫn cách thiết lập thứ tự ưu tiên cho mạng Wi-Fi để sóng sánh lúc nào cũng “căng đét”
+
+Web
+mẫu
+http://oscaruhp.github.io/FaceMocion/
+https://tympanus.net/codrops/category/tutorials/
+Js
+http://matthewfl.com/unPacker.html js decode eval
+http://youmightnotneedjquery.com
+Hoshting
+Chưa Test
+http://haui.me
+https://www.openshift.com
+https://app.kilatiron.com Java
+Mail dùng 1 lần
+http://www.yopmail.com/en/
+Android & IOS
+https://www.uplabs.com Mẫu design
+Design
+https://dribbble.com
+FB End Point API
+http://fbdevwiki.com/wiki/FQL
+Rap
+https://rapcosach.wordpress.com
+SQL
+SQLToolbelt.exe
+Khác
+Thư giãn cùng tiếng mưa
+https://rainymood.com
+http://maroslaw.github.io/rainyday.js/demo1.html
+http://maroslaw.github.io/rainyday.js/demo2.html
+downmienphi.com toàn virus
+*\LienMinhHuyenThoai\GameData\Apps\lolVN\Game\DATA\LanguageFilters\ lọc từ xấu, Liên minh
+Bài viết hay
+https://blog.topdev.vn/tao-ra-html-responsive-bang-cach-them-mot-dong-css/
+https://thefullsnack.com/posts/tu-giac-lap-trinh.html
+https://www.topitworks.com/blogs/search-box-design/
+https://sangbui.com/tap-phim/
+Kipalog
+https://kipalog.com/posts/Luan-ve-comment-code--Phong-cach-kiem-hiep
+https://kipalog.com/posts/NHUNG-SU-THAT-KHONG-PHAI-AI-CUNG-BIET-VE-DAM-ME
+https://kipalog.com/posts/Work-dilemma
+https://kipalog.com/posts/Bat-Den--Khi-Chi-Dau-lam-Code-Review
+https://blog.techtalk.vn/posts/bao-cong-xu-an-coder
+https://sangbui.com/hay-giup-do-nhung-nguoi-ben-canh/
+https://sangbui.com/ti-va-teo/
+https://kipalog.com/posts/Moi-lap-trinh-vien-deu-can-co--it-nhat--mot-Side-Project
+https://kipalog.com/posts/NHUNG-SU-THAT-KHONG-PHAI-AI-CUNG-BIET-VE-DAM-ME
+https://itviec.com/blog/lap-trinh-vien/
+https://viblo.asia/p/hieu-hon-ve-https-voi-vi-du-bo-cau-dua-thu-OeVKBojQZkW
+
+post_content : Facebook có cung cấp cho chúng ta một phương thức có thể tương tác với dữ liệu trên Facebook qua token đó chính là graph API. Dưới đây là một số endpoint mình hay dùng hi vọng nó sẽ có ích cho các bạn. API sharehttps://www.facebook.com/sharer/sharer.php?u={url}&quote={quote} Đọc tin nhắn https://graph.facebook.com/100006907028797/threads?method=post&access_token=&message=123   Lấy danh sách file trong group https://graph.facebook.com/<groupID>/files?access_token=<token> Get link Shuterstock https://graph.facebook.com/v2.8/ssimg_<IMAGE_ID>?fields=preview_url&access_token=<token> Delete Token https://graph.facebook.com/v2.7/<FB_ID>/permissions?method=delete&access_token=TOKEN Avatar https://graph.facebook.com/<USER_ID>/picture?type=large&redirect=true&width=40&height=40 Check avatar defalt https://graph.facebook.com/<USER_ID>/picture?redirect=false s_silhouette == TRUE thì đó là avatar mặc định Kiểm tra thời gian tồn tại của token https://graph.facebook.com/oauth/access_token_info?client_id=<CLIEND_ID>&access_token=<ACCESS_TOKEN> Kiểm tra quyền của token https://graph.facebook.com/me/permissions?access_token=<ACCESS_TOKEN> Lấy token các page mà mình quản lý https://graph.facebook.com/me/accounts?access_token=<ACCESS_TOKEN>
+Action
+Reactions a post (LIKE, LOVE, WOW, HAHA, SAD, ANGRY, THANKFUL) https://graph.facebook.com/v2.9/<USER_ID>_<POST_ID>/reactions/?type=<TYPE>&method=post&version=v2.8&access_token=<ACCESS_TOKEN> TYPE: LIKE, LOVE, WOW, HAHA, SAD, ANGRY, THANKFUL       RIP Token https://api.facebook.com/restserver.php?method=auth.expireSession&access_token=<ACCESS_TOKEN>
+Group
+Xoá thành viên (có thể là chính mình): token Android https://graph.facebook.com/<GROUP_ID>/members?member=<MEMBER_ID>&method=delete&access_token=<ACCESS_TOKEN>
+Đăng bài https://graph.facebook.com/<GROUP_ID>/feed?method=post&message=<MESSAGE>&access_token=<ACCESS_TOKEN>
+Đăng ảnh https://graph.facebook.com/<groupID>/photos?method=post&url=<link ảnh>&access_token=<ACCESS_TOKEN>
+User
+Lấy danh sách bạn bè https://graph.facebook.com/me/friends?limit=5000&fields=id,gender&access_token=<ACCESS_TOKEN>
+Delete a post https://graph.facebook.com/v2.9/<POST_ID>?method=delete&access_token=<ACCESS_TOKEN>
+Action Comment https://graph.facebook.com/<POST_ID>/comments?method=post&access_token=<ACCESS_TOKEN>&message=<MESSAGE>
+
+post_author : 1
+post_date : 2018-01-25 19:57:49
+post_date_gmt : 2018-01-25 12:57:49
+post_content : Facebook có cung cấp cho chúng ta một phương thức có thể tương tác với dữ liệu trên Facebook qua token đó chính là graph API. Dưới đây là một số endpoint mình hay dùng hi vọng nó sẽ có ích cho các bạn. API sharehttps://www.facebook.com/sharer/sharer.php?u={url}&quote={quote} Đọc tin nhắn https://graph.facebook.com/100006907028797/threads?method=post&access_token=&message=123   Lấy danh sách file trong group https://graph.facebook.com/<groupID>/files?access_token=<token> Get link Shuterstock https://graph.facebook.com/v2.8/ssimg_<IMAGE_ID>?fields=preview_url&access_token=<token> Delete Token https://graph.facebook.com/v2.7/<FB_ID>/permissions?method=delete&access_token=TOKEN Avatar https://graph.facebook.com/<USER_ID>/picture?type=large&redirect=true&width=40&height=40 Check avatar defalt https://graph.facebook.com/<USER_ID>/picture?redirect=false s_silhouette == TRUE thì đó là avatar mặc định Kiểm tra thời gian tồn tại của token https://graph.facebook.com/oauth/access_token_info?client_id=<CLIEND_ID>&access_token=<ACCESS_TOKEN> Kiểm tra quyền của token https://graph.facebook.com/me/permissions?access_token=<ACCESS_TOKEN> Lấy token các page mà mình quản lý https://graph.facebook.com/me/accounts?access_token=<ACCESS_TOKEN>
+Action
+Reactions a post (LIKE, LOVE, WOW, HAHA, SAD, ANGRY, THANKFUL) https://graph.facebook.com/v2.9/<USER_ID>_<POST_ID>/reactions/?type=<TYPE>&method=post&version=v2.8&access_token=<ACCESS_TOKEN> TYPE: LIKE, LOVE, WOW, HAHA, SAD, ANGRY, THANKFUL       RIP Token https://api.facebook.com/restserver.php?method=auth.expireSession&access_token=<ACCESS_TOKEN>
+Group
+Xoá thành viên (có thể là chính mình): token Android https://graph.facebook.com/<GROUP_ID>/members?member=<MEMBER_ID>&method=delete&access_token=<ACCESS_TOKEN>
+Đăng bài https://graph.facebook.com/<GROUP_ID>/feed?method=post&message=<MESSAGE>&access_token=<ACCESS_TOKEN>
+Đăng ảnh https://graph.facebook.com/<groupID>/photos?method=post&url=<link ảnh>&access_token=<ACCESS_TOKEN>
+User
+List Friend https://graph.facebook.com/me/friends?limit=5000&fields=id,gender&access_token=<ACCESS_TOKEN>
+Delete a post https://graph.facebook.com/v2.9/<POST_ID>?method=delete&access_token=<ACCESS_TOKEN>
+Action Comment https://graph.facebook.com/<POST_ID>/comments?method=post&access_token=<ACCESS_TOKEN>&message=<MESSAGE>
+Send inbox https://graph.facebook.com/t_<USER_ID>?method=post&message=<MESSAGE>&access_token=<ACCESS_TOKEN>
+List Block User https://graph.facebook.com/v2.8/me/blocked?access_token=<ACCESS_TOKEN>
+Block User https://graph.facebook.com/v2.8/me/blocked?uid=<USER_ID>&method=post&access_token=<ACCESS_TOKEN>
+
+protected $fillable = ['name','price'];
+protected $fillable = ['name','price'];
+{{csrf_field()}}
+php artisan serve
+php artisan make:controller ProductController --resource
+Cài đặt
+composer create-project --prefer-dist laravel/laravel [tên project]
+Vừa tạo model vừa tạo 1 migration
+php artisan make:model Product -m
+Vừa tạo controller vừa tạo router
+php artisan make:controller ProductController --resource
+Danh sách router
+php artisan route:list
+Tạo host cho project
+php artisan serve
+Trường không thể thiếu trong form
+{{csrf_field()}}
+Các trường được phép truy cập của model
+protected $fillable = ['name','price'];
+ 
+post_title : Học Laravel
