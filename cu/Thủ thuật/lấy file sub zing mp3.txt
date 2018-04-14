@@ -1,6 +1,0 @@
-Lúc nãy có bác hướng dẫn lấy sub các bài nhạc của zing mp3 bằng app trên điện thoại, giờ mình xin hướng cách lấy sub trực tiếp trên máy tính.
-+ B1: Mở zing mp3 bằng chrome hoặc cốc cốc, ấn F12 ta được 1 cái bảng ở bên phải màn hình :)
-+ B2: Tìm bài hát cần sub ở bên trái, sau khi seach và enter, các bạn chuyển sang tab "network" ở cái bảng bên phải, thấy có rất nhiều thứ đang load
-+ B3: ctrl + F để mở thanh tìm kiếm ở bảng bên phải, gõ ".lrc" vào, nó sẽ tìm ra 1 file, đó là file sub của bài nhạc :)
-+ B4: Chuột phải vào nó, chọn open in new tab, nó sẽ cho mình tải về máy
-+ B5: Tải về và mở lên, convert nữa nếu cần, mở bằng notepad cũng được rồi :)
